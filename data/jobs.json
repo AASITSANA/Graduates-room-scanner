@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-24T04:22:01+00:00",
- "count": 81,
+ "updated_at": "2026-11-24T10:56:52+00:00",
+ "count": 74,
  "jobs": [
   {
    "id": "0a04089d316c5a59",
@@ -168,6 +168,24 @@
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-24",
    "confidence": "check"
+  },
+  {
+   "id": "6a8bc562ddafa288",
+   "title": "Junior Buyer Miladys",
+   "company": "Mr Price Group",
+   "sector": "Retail",
+   "location": "Durban, Kwazulu Natal, South Africa",
+   "province": "KwaZulu-Natal",
+   "job_type": "Entry-level",
+   "faculties": [
+    "Commerce"
+   ],
+   "closing_date": "2026-12-10",
+   "posted_date": "2026-11-24",
+   "url": "https://fa-etyi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/5931",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "confidence": "high"
   },
   {
    "id": "68478e5382b27f5f",
@@ -455,6 +473,45 @@
    "confidence": "high"
   },
   {
+   "id": "20c3140558a304f5",
+   "title": "Agent: Collections",
+   "company": "Capitec Bank",
+   "sector": "Banking & Finance",
+   "location": "Century City, WC, ZA",
+   "province": "Western Cape",
+   "job_type": "Entry-level",
+   "faculties": [
+    "Commerce",
+    "IT",
+    "Humanities"
+   ],
+   "closing_date": null,
+   "posted_date": "2026-11-14",
+   "url": "https://careers.capitecbank.co.za/job/Century-City-Agent-Collections-WC/1423063733/",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "confidence": "check"
+  },
+  {
+   "id": "1b35c1c72756cd5d",
+   "title": "About the internship",
+   "company": "City of Cape Town",
+   "sector": "Municipality",
+   "location": "",
+   "province": "",
+   "job_type": "Internship",
+   "faculties": [
+    "Humanities",
+    "Built Environment"
+   ],
+   "closing_date": null,
+   "posted_date": null,
+   "url": "https://www.capetown.gov.za/city-connect/apply/jobs-and-opportunities/apply-for-the-urban-sustainability-internship-programme/#Heading0",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "confidence": "high"
+  },
+  {
    "id": "6fa0139daa921408",
    "title": "Junior Lawyers Forum",
    "company": "Cliffe Dekker Hofmeyr",
@@ -469,44 +526,6 @@
    "closing_date": null,
    "posted_date": null,
    "url": "https://www.cliffedekkerhofmeyr.com/en/young-minds/",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "2dc73385d9cfd82a",
-   "title": "Internship",
-   "company": "Competition Commission",
-   "sector": "Government",
-   "location": "",
-   "province": "",
-   "job_type": "Internship",
-   "faculties": [
-    "Engineering",
-    "Built Environment"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "http://demo.goodlayers.com/realfactory/market-sectors/construction-engineering/",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "6f2c5545e1250147",
-   "title": "Graduates",
-   "company": "Competition Commission",
-   "sector": "Government",
-   "location": "",
-   "province": "",
-   "job_type": "Graduate programme",
-   "faculties": [
-    "Engineering",
-    "Built Environment"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "http://demo.goodlayers.com/realfactory/market-sectors/power-energy/",
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-24",
    "confidence": "high"
@@ -568,24 +587,6 @@
    "confidence": "check"
   },
   {
-   "id": "27dbeed9b72de14c",
-   "title": "Internship: Finance Administrator",
-   "company": "Discovery",
-   "sector": "Insurance & Investment",
-   "location": "Sandton - 1 Discovery Place, Gauteng, ZA",
-   "province": "Gauteng",
-   "job_type": "Internship",
-   "faculties": [
-    "Commerce"
-   ],
-   "closing_date": null,
-   "posted_date": "2026-11-11",
-   "url": "https://careers.discovery.co.za/job/Sandton-1-Discovery-Place-Internship-Finance-Administrator-Gaut/1456294533/",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
    "id": "fb89a18a78204039",
    "title": "Java Developer (Junior)",
    "company": "Discovery",
@@ -642,74 +643,19 @@
    "confidence": "high"
   },
   {
-   "id": "17b7fa676b0def58",
-   "title": "2027 Software Developer Graduate Programme",
-   "company": "Electrum",
-   "sector": "Technology",
-   "location": "",
-   "province": "",
-   "job_type": "Graduate programme",
-   "faculties": [
-    "IT"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "https://apply.workable.com/j/5CD96E8A30",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "cd607aad1244cf90",
-   "title": "2027 Summer Software Developer Internship",
-   "company": "Electrum",
-   "sector": "Technology",
-   "location": "",
-   "province": "",
+   "id": "c01c201a3913c499",
+   "title": "Internship: TVET HR Administrator",
+   "company": "Discovery",
+   "sector": "Insurance & Investment",
+   "location": "Durban - 41 Imvubupark Place, KwaZulu-Natal, ZA, 4019",
+   "province": "KwaZulu-Natal",
    "job_type": "Internship",
    "faculties": [
-    "IT"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "https://apply.workable.com/j/1CCD9D3803",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "f96d93cbb98f7b37",
-   "title": "Graduate Programme Real world exposure and valued experience",
-   "company": "Electrum",
-   "sector": "Technology",
-   "location": "",
-   "province": "",
-   "job_type": "Graduate programme",
-   "faculties": [
-    "IT",
     "Commerce"
    ],
    "closing_date": null,
-   "posted_date": null,
-   "url": "https://www.electrumsoftware.com/careers/graduate-programme",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "af7b34b54c09bc0f",
-   "title": "Internship Programme Summer and winter internships for expanding your outlook",
-   "company": "Electrum",
-   "sector": "Technology",
-   "location": "",
-   "province": "",
-   "job_type": "Internship",
-   "faculties": [
-    "IT"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "https://www.electrumsoftware.com/careers/internship-programme",
+   "posted_date": "2026-11-19",
+   "url": "https://careers.discovery.co.za/job/Durban-41-Imvubupark-Place-Internship-TVET-HR-Administrator-KwaZ-4019/1446104333/",
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-24",
    "confidence": "high"
@@ -729,24 +675,6 @@
    "closing_date": null,
    "posted_date": null,
    "url": "https://culture.entelect.com/graduates",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "aa1f8e441b700e5f",
-   "title": "The Insurance Apprentice",
-   "company": "FSCA",
-   "sector": "Banking & Finance",
-   "location": "",
-   "province": "",
-   "job_type": "Trainee",
-   "faculties": [
-    "Commerce"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "https://www.fsca.co.za/Media-Center/#the-insurance-apprentice",
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-24",
    "confidence": "high"
@@ -785,42 +713,6 @@
    "closing_date": null,
    "posted_date": null,
    "url": "https://hsrc.ac.za/hsrc-internship-programme/",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "c82549f8081a06c0",
-   "title": "Transmission Line Engineer",
-   "company": "Hatch",
-   "sector": "Engineering & Built Environment",
-   "location": "Johannesburg, Gauteng, ZA",
-   "province": "Gauteng",
-   "job_type": "Entry-level",
-   "faculties": [
-    "Engineering"
-   ],
-   "closing_date": null,
-   "posted_date": "2026-11-12",
-   "url": "https://jobs.hatch.com/job/Johannesburg-Transmission-Line-Engineer-Gaut/1450103800/",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "check"
-  },
-  {
-   "id": "1b16765458931817",
-   "title": "Graduate Programme 2026 (Port & Coastal Engineer)",
-   "company": "Hatch",
-   "sector": "Engineering & Built Environment",
-   "location": "Johannesburg, Gauteng, ZA",
-   "province": "Gauteng",
-   "job_type": "Graduate programme",
-   "faculties": [
-    "Engineering"
-   ],
-   "closing_date": null,
-   "posted_date": "2026-11-02",
-   "url": "https://jobs.hatch.com/job/Johannesburg-Graduate-Programme-2026-%28Port-&-Coastal-Engineer%29-Gaut/1446692500/",
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-24",
    "confidence": "high"
@@ -880,6 +772,42 @@
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-24",
    "confidence": "high"
+  },
+  {
+   "id": "1b16765458931817",
+   "title": "Graduate Programme 2026 (Port & Coastal Engineer)",
+   "company": "Hatch",
+   "sector": "Engineering & Built Environment",
+   "location": "Johannesburg, Gauteng, ZA",
+   "province": "Gauteng",
+   "job_type": "Graduate programme",
+   "faculties": [
+    "Engineering"
+   ],
+   "closing_date": null,
+   "posted_date": "2026-11-02",
+   "url": "https://jobs.hatch.com/job/Johannesburg-Graduate-Programme-2026-%28Port-&-Coastal-Engineer%29-Gaut/1446692500/",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "confidence": "high"
+  },
+  {
+   "id": "c82549f8081a06c0",
+   "title": "Transmission Line Engineer",
+   "company": "Hatch",
+   "sector": "Engineering & Built Environment",
+   "location": "Johannesburg, Gauteng, ZA",
+   "province": "Gauteng",
+   "job_type": "Entry-level",
+   "faculties": [
+    "Engineering"
+   ],
+   "closing_date": null,
+   "posted_date": "2026-11-12",
+   "url": "https://jobs.hatch.com/job/Johannesburg-Transmission-Line-Engineer-Gaut/1450103800/",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "confidence": "check"
   },
   {
    "id": "912dced36c556b6b",
@@ -1066,187 +994,6 @@
    "confidence": "check"
   },
   {
-   "id": "9c7008f03f59dd3f",
-   "title": "South African Civil Aviation Authority (SACAA) Graduate Internship Programme",
-   "company": "National Youth Development Agency (NYDA)",
-   "sector": "Government",
-   "location": "",
-   "province": "",
-   "job_type": "Internship",
-   "faculties": [
-    "Engineering"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "https://tinyurl.com/37tfrj39",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "953671d893d84415",
-   "title": "Y Academy Internship 2026",
-   "company": "National Youth Development Agency (NYDA)",
-   "sector": "Government",
-   "location": "",
-   "province": "",
-   "job_type": "Internship",
-   "faculties": [
-    "IT"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "https://tinyurl.com/4xcykju3",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "98ba097704464a58",
-   "title": "Discovery Servicing Administrator Internship",
-   "company": "National Youth Development Agency (NYDA)",
-   "sector": "Government",
-   "location": "",
-   "province": "",
-   "job_type": "Internship",
-   "faculties": [
-    "Commerce"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "https://tinyurl.com/2p7yv4ec",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "1935cf8b4fc86870",
-   "title": "2027 Vodacom Early Careers Programmes",
-   "company": "National Youth Development Agency (NYDA)",
-   "sector": "Government",
-   "location": "",
-   "province": "",
-   "job_type": "Graduate programme",
-   "faculties": [
-    "All faculties"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "https://tinyurl.com/bw5dv5ha",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "b356d29b87259318",
-   "title": "SAHPRA Graduate Internship Programme for the 2026/2027",
-   "company": "National Youth Development Agency (NYDA)",
-   "sector": "Government",
-   "location": "",
-   "province": "",
-   "job_type": "Internship",
-   "faculties": [
-    "IT"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "https://tinyurl.com/2ptm48v5",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "f158e5051767101d",
-   "title": "Transnet Freight Rail Internship Programme",
-   "company": "National Youth Development Agency (NYDA)",
-   "sector": "Government",
-   "location": "",
-   "province": "",
-   "job_type": "Internship",
-   "faculties": [
-    "All faculties"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "https://tinyurl.com/5c92jr84",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "66bedeb4e570a14b",
-   "title": "NYDA Youth Co-operative Development Programme (YCDP)",
-   "company": "National Youth Development Agency (NYDA)",
-   "sector": "Government",
-   "location": "",
-   "province": "",
-   "job_type": "Graduate programme",
-   "faculties": [
-    "All faculties"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "https://www.nyda.gov.za/Portals/0/WebSitesCreative_MyContentManager/1092/NYDA_BCS.pdf",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "44f3e9c863613087",
-   "title": "https://www.africanfarming.com/2026/10/26/first-agri-skills-class-graduates-in-gauteng-as-omnia-and-marketplace-academy-celebrate-20-learners/",
-   "company": "Omnia",
-   "sector": "Energy & Chemicals",
-   "location": "",
-   "province": "",
-   "job_type": "Graduate programme",
-   "faculties": [
-    "Science"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "https://www.africanfarming.com/2026/10/26/first-agri-skills-class-graduates-in-gauteng-as-omnia-and-marketplace-academy-celebrate-20-learners/",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "b89bcc1d455815a1",
-   "title": "Graduate Opportunities (4)",
-   "company": "PPS",
-   "sector": "Insurance & Investment",
-   "location": "",
-   "province": "",
-   "job_type": "Graduate programme",
-   "faculties": [
-    "All faculties"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "https://www.pps.co.za/candidateapp/Jobs/Categories/Graduate_Opportunities/91ca10fc4a6c46eb8e6a14fa13102082",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "5e2a4bca9b23efec",
-   "title": "GRADUATE DEVELOPMENT PROGRAMME",
-   "company": "Parliament of South Africa",
-   "sector": "Government",
-   "location": "",
-   "province": "",
-   "job_type": "Graduate programme",
-   "faculties": [
-    "Humanities",
-    "Commerce"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "https://www.parliament.gov.za/careers-parliament#graduate",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
    "id": "536a4510e1757c76",
    "title": "Internships & Programs",
    "company": "PepsiCo South Africa",
@@ -1301,7 +1048,7 @@
    "confidence": "high"
   },
   {
-   "id": "c17b6c115fb1ac6e",
+   "id": "9e2c66cac4f214ba",
    "title": "2027 Graduate Development Programme Reopens - Opportunity for Additional Graduates",
    "company": "Public Investment Corporation (PIC)",
    "sector": "Banking & Finance",
@@ -1313,25 +1060,105 @@
    ],
    "closing_date": null,
    "posted_date": null,
-   "url": "https://www.pic.gov.za/documents/publications/360/d6ce2809b14340ff8a33d6a88910e115.pdf?skoid=40adc226-5a3c-4239-8285-b3a7262de2ed&sktid=06fdb25e-a78c-4818-a304-562007fd761b&skt=2026-11-24T04%3A22%3A07Z&ske=2026-11-24T06%3A52%3A07Z&sks=b&skv=2025-11-05&sv=2025-11-05&st=2026-11-24T04%3A17%3A07Z&se=2026-11-24T06%3A52%3A07Z&sr=b&sp=r&sig=n9JtV4NjLvQpRCkZUDkFFp00%2FiDfrh7IEqefcYNdnmA%3D",
+   "url": "https://www.pic.gov.za/documents/publications/360/d6ce2809b14340ff8a33d6a88910e115.pdf?skoid=40adc226-5a3c-4239-8285-b3a7262de2ed&sktid=06fdb25e-a78c-4818-a304-562007fd761b&skt=2026-11-24T10%3A56%3A59Z&ske=2026-11-24T13%3A26%3A59Z&sks=b&skv=2025-11-05&sv=2025-11-05&st=2026-11-24T10%3A51%3A59Z&se=2026-11-24T13%3A26%3A59Z&sr=b&sp=r&sig=zkPcWoJTFV5nwcs7hZzNmXY2a78isrZYMjwBtNOc%2BGk%3D",
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-24",
    "confidence": "high"
   },
   {
-   "id": "854beaeb6725df81",
-   "title": "Internships",
-   "company": "SANSA (SA National Space Agency)",
-   "sector": "Development Finance & Research",
+   "id": "4e8367dde5320291",
+   "title": "Assurance Graduate Programmes (6)",
+   "company": "PwC",
+   "sector": "Accounting & Audit",
+   "location": "",
+   "province": "",
+   "job_type": "Graduate programme",
+   "faculties": [
+    "Commerce",
+    "IT",
+    "Law"
+   ],
+   "closing_date": null,
+   "posted_date": null,
+   "url": "https://pwcza-graduate.erecruit.co/candidateapp/Jobs/Categories/Assurance_Graduate_Programmes/fa07e28b035f44e5827723d15d3aa799",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "confidence": "high"
+  },
+  {
+   "id": "478fe15917c7bc31",
+   "title": "Deals Graduate Programmes (0)",
+   "company": "PwC",
+   "sector": "Accounting & Audit",
+   "location": "",
+   "province": "",
+   "job_type": "Graduate programme",
+   "faculties": [
+    "Commerce",
+    "IT",
+    "Law"
+   ],
+   "closing_date": null,
+   "posted_date": null,
+   "url": "https://pwcza-graduate.erecruit.co/candidateapp/Jobs/Categories/Deals_Graduate_Programmes/53ca4bf34aad463399569ef5d43b604f",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "confidence": "high"
+  },
+  {
+   "id": "727471507d25e1a8",
+   "title": "Internal Firm Services (IFS) Graduate Programmes (0)",
+   "company": "PwC",
+   "sector": "Accounting & Audit",
    "location": "",
    "province": "",
    "job_type": "Internship",
    "faculties": [
-    "IT"
+    "Commerce",
+    "IT",
+    "Law"
    ],
    "closing_date": null,
    "posted_date": null,
-   "url": "https://sansa.mcidirecthire.com/Learnership/External/CurrentOpportunities?Ref=",
+   "url": "https://pwcza-graduate.erecruit.co/candidateapp/Jobs/Categories/Internal_Firm_Services_(IFS)_Graduate_Programmes/2e57a45d8be64b4e87491ef9c29e368f",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "confidence": "high"
+  },
+  {
+   "id": "04d2dde63c030961",
+   "title": "Tax Graduate Programmes (0)",
+   "company": "PwC",
+   "sector": "Accounting & Audit",
+   "location": "",
+   "province": "",
+   "job_type": "Graduate programme",
+   "faculties": [
+    "Commerce",
+    "IT",
+    "Law"
+   ],
+   "closing_date": null,
+   "posted_date": null,
+   "url": "https://pwcza-graduate.erecruit.co/candidateapp/Jobs/Categories/Tax_Graduate_Programmes/c0e90073ccc84bdbba5cfd6481a9c378",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "confidence": "high"
+  },
+  {
+   "id": "fa81e238671223ed",
+   "title": "Graduate Programme Collapsed Content",
+   "company": "South African Airways (SAA)",
+   "sector": "Transport & Logistics",
+   "location": "",
+   "province": "",
+   "job_type": "Graduate programme",
+   "faculties": [
+    "Commerce"
+   ],
+   "closing_date": null,
+   "posted_date": null,
+   "url": "https://www.flysaa.com/about-us/leading-carrier/careers/youth-development",
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-24",
    "confidence": "high"
@@ -1449,6 +1276,26 @@
    "confidence": "check"
   },
   {
+   "id": "311397601ff3ae99",
+   "title": "Youth Development Programmes",
+   "company": "Transnet",
+   "sector": "Transport & Logistics",
+   "location": "",
+   "province": "",
+   "job_type": "Graduate programme",
+   "faculties": [
+    "Engineering",
+    "Commerce",
+    "IT"
+   ],
+   "closing_date": null,
+   "posted_date": null,
+   "url": "https://www.transnet.net/YouthDevelopmentProgrammes",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "confidence": "high"
+  },
+  {
    "id": "2541fbe77e6603fc",
    "title": "GRADUATES",
    "company": "WBHO",
@@ -1500,6 +1347,42 @@
    "closing_date": null,
    "posted_date": null,
    "url": "https://werksmans.com/graduates/candidate-attorney-programme/",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "confidence": "high"
+  },
+  {
+   "id": "7c959a1d237db2bd",
+   "title": "merSETA Intern Application Form",
+   "company": "merSETA",
+   "sector": "SETA",
+   "location": "",
+   "province": "",
+   "job_type": "Internship",
+   "faculties": [
+    "All faculties"
+   ],
+   "closing_date": null,
+   "posted_date": null,
+   "url": "https://www.merseta.org.za/wp-content/uploads/2022/07/merSETA-Intern-Application-Form_.pdf",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "confidence": "high"
+  },
+  {
+   "id": "f40fd8eb47b98471",
+   "title": "Return on Investment tool Check how apprenticeships generate profit.",
+   "company": "merSETA",
+   "sector": "SETA",
+   "location": "",
+   "province": "",
+   "job_type": "Trainee",
+   "faculties": [
+    "Commerce"
+   ],
+   "closing_date": null,
+   "posted_date": null,
+   "url": "http://roi.merseta.org.za/",
    "first_seen": "2026-11-24",
    "last_seen": "2026-11-24",
    "confidence": "high"
