@@ -12,7 +12,7 @@ Citi South Africa,Banking & Finance,Private,citigroup.com,workday,https://citi.w
 South African Reserve Bank (SARB),Banking & Finance,Public / SOE,resbank.co.za,oracle,https://fa-evra-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SARB/jobs,no,yes,seeded: Oracle portal seen Nov 2026
 JSE,Banking & Finance,Private,jse.co.za,,,no,yes,auto: website blocks automated visitors – add its job portal by hand – fill in by hand
 Public Investment Corporation (PIC),Banking & Finance,Public / SOE,pic.gov.za,html,https://www.pic.gov.za/careers,no,yes,"auto: no known platform – generic careers page, check it"
-FSCA,Banking & Finance,Public / SOE,fsca.co.za,html,https://fsca.mcidirecthire.com/External/CurrentOpportunities/#collapse2,no,yes,"auto: no known platform – generic careers page, check it"
+FSCA,Banking & Finance,Public / SOE,fsca.co.za,html,https://fsca.mcidirecthire.com/default/External/CurrentOpportunities?Ref=TEkBhDYErs0qhHgueWeCgt_yRI-cnPLR1MRk1RR6CprzB-U-2v9zdrDRc_O8UHXm,no,yes,"auto: no known platform – generic careers page, check it"
 Discovery,Insurance & Investment,Private,discovery.co.za,successfactors,https://careers.discovery.co.za/search/,yes,yes,auto: career site at https://careers.discovery.co.za/
 Old Mutual,Insurance & Investment,Private,oldmutual.co.za,workday,https://oldmutual.wd3.myworkdayjobs.com/Old_Mutual_Careers,yes,yes,fix: Old Mutual Workday portal
 Sanlam,Insurance & Investment,Private,sanlam.co.za,html,https://www.sanlamonline.co.za/careers,yes,yes,"auto: no known platform – generic careers page, check it"
@@ -22,34 +22,34 @@ Hollard,Insurance & Investment,Private,hollard.co.za,html,https://www.hollard.co
 Santam,Insurance & Investment,Private,santam.co.za,html,https://www.santam.co.za/careers/,yes,yes,"auto: no known platform – generic careers page, check it"
 OUTsurance,Insurance & Investment,Private,outsurance.co.za,smartrecruiters,OUTsurance,yes,yes,auto: found on https://www.outsurance.co.za/about-outsurance/careers/
 PPS,Insurance & Investment,Private,pps.co.za,html,https://pps.erecruit.co/candidateapp/Jobs/Categories/Graduate_Opportunities/91ca10fc4a6c46eb8e6a14fa13102082#0,no,yes,"auto: no known platform – generic careers page, check it"
-PSG Financial Services,Insurance & Investment,Private,psg.co.za,html,https://myfocus.psg.co.za/CareerFocus/Vacancy/HRF_VACANCY_SEARCH_CAREERS_BLOCK.aspx,no,yes,"auto: no known platform – generic careers page, check it"
+PSG Financial Services,Insurance & Investment,Private,psg.co.za,html,https://www.psg.co.za/careers,no,yes,"auto: no known platform – generic careers page, check it"
 Allan Gray,Insurance & Investment,Private,allangray.co.za,html,https://career2.successfactors.eu/career?company=allangrayp,yes,yes,auto: old SuccessFactors site – set USE_BROWSER=1; find newer portal if any
 Coronation Fund Managers,Insurance & Investment,Private,coronation.com,html,https://www.coronation.com/careers/,no,yes,"auto: no known platform – generic careers page, check it"
 Ninety One,Insurance & Investment,Private,ninetyone.com,,,yes,yes,auto: website blocks automated visitors – add its job portal by hand – fill in by hand
 Stanlib,Insurance & Investment,Private,stanlib.com,,,no,yes,auto: no suitable careers page found – fill in by hand
-Alexander Forbes,Insurance & Investment,Private,alexanderforbes.co.za,html,https://invest.alexforbes.com/za/en/about/careers#our-people-promise,no,yes,"auto: no known platform – generic careers page, check it"
+Alexander Forbes,Insurance & Investment,Private,alexanderforbes.co.za,html,https://invest.alexforbes.com/za/en/about/careers#roadmap,no,yes,"auto: no known platform – generic careers page, check it"
 Marsh,Insurance & Investment,Private,marsh.com,html,https://careers.marsh.com,yes,yes,"auto: no known platform – generic careers page, check it"
 PwC,Accounting & Audit,Private,pwc.co.za,html,https://pwcza-graduate.erecruit.co/candidateapp/jobs/browse/,yes,yes,fix: PwC South Africa graduate eRecruit portal
 Deloitte,Accounting & Audit,Private,deloitte.com/za,smartrecruiters,Deloitte6,yes,yes,auto: found on https://careers.smartrecruiters.com/Deloitte6?icid=top_?icid=top_https://careers.smartrecruiters.com/Deloitte6?icid=top_&icid=top_job-search
-EY,Accounting & Audit,Private,ey.com,html,https://usearlycareers.ey.com/,yes,yes,"auto: no known platform – generic careers page, check it"
+EY,Accounting & Audit,Private,ey.com,html,https://usearlycareers.ey.com/search-jobs,yes,yes,"auto: no known platform – generic careers page, check it"
 KPMG,Accounting & Audit,Private,kpmg.com/za,html,https://kpmg.com/za/en/careers.html,yes,yes,auto: uses Taleo (no dedicated reader yet)
 BDO South Africa,Accounting & Audit,Private,bdo.co.za,html,https://bdo.mcidirecthire.com/graduate/external/CurrentOpportunities#collapse2,yes,yes,"auto: no known platform – generic careers page, check it"
-Forvis Mazars,Accounting & Audit,Private,forvismazars.com,html,https://www.forvismazars.com/hr/en/join-us/job-offers,yes,yes,"auto: no known platform – generic careers page, check it"
+Forvis Mazars,Accounting & Audit,Private,forvismazars.com,html,https://careers-gr.forvismazars.com/jobs,yes,yes,"auto: no known platform – generic careers page, check it"
 Grant Thornton,Accounting & Audit,Private,grantthornton.co.za,html,https://www.grantthornton.co.za/Careers/Careers/students-and-graduates/#skip-nav,yes,yes,"auto: no known platform – generic careers page, check it"
 Nexia SAB&T,Accounting & Audit,Private,nexia-sabt.co.za,html,https://www.nexia-sabt.co.za/job/internal-audit-senior/,no,yes,"auto: no known platform – generic careers page, check it"
 Auditor-General South Africa (AGSA),Accounting & Audit,Public / SOE,agsa.co.za,html,https://www.agsa.co.za/careers/graduate-recruitment,no,yes,"auto: no known platform – generic careers page, check it"
 Accenture,Consulting,Private,accenture.com,workday,https://accenture.wd103.myworkdayjobs.com/AccentureCareers,yes,yes,auto: found on https://www.accenture.com/us-en/careers
 McKinsey & Company,Consulting,Private,mckinsey.com,,,yes,yes,auto: website did not load – fill in by hand
-Boston Consulting Group (BCG),Consulting,Private,bcg.com,html,https://careers.bcg.com/early-careers,yes,yes,"auto: no known platform – generic careers page, check it"
-Bain & Company,Consulting,Private,bain.com,html,https://www.bain.com/de/careers/work-with-us/internships-programs/,yes,yes,"auto: no known platform – generic careers page, check it"
+Boston Consulting Group (BCG),Consulting,Private,bcg.com,html,https://careers.bcg.com/global/en/early-careers,yes,yes,"auto: no known platform – generic careers page, check it"
+Bain & Company,Consulting,Private,bain.com,html,https://www.bain.com/ko/careers/work-with-us/students/,yes,yes,"auto: no known platform – generic careers page, check it"
 Kearney,Consulting,Private,kearney.com,html,https://www.kearney.com/careers/opportunities/internal-roles-and-pathways,yes,yes,"auto: no known platform – generic careers page, check it"
 Genesis Analytics,Consulting,Private,genesis-analytics.com,html,https://www.genesis-analytics.com/careers,no,yes,"auto: no known platform – generic careers page, check it"
 NTT DATA South Africa,Technology,Private,nttdata.com,,,yes,yes,auto: website did not load – fill in by hand
 IBM South Africa,Technology,Private,ibm.com,html,https://www.ibm.com/careers/internships,yes,yes,"auto: no known platform – generic careers page, check it"
 Microsoft South Africa,Technology,Private,microsoft.com,html,https://careers.microsoft.com/,yes,yes,"auto: no known platform – generic careers page, check it"
-Amazon / AWS South Africa,Technology,Private,amazon.jobs,html,https://amazon.jobs/content/en/job-categories/business-merchant-development,yes,yes,"auto: no known platform – generic careers page, check it"
-Google South Africa,Technology,Private,google.com/about/careers,html,https://www.google.com/about/careers/applications/internships,yes,yes,"auto: no known platform – generic careers page, check it"
-SAP Africa,Technology,Private,sap.com,successfactors,https://jobs.sap.com/search/,yes,yes,seeded: SAP career site – verify on first run
+Amazon / AWS South Africa,Technology,Private,amazon.jobs,html,https://amazon.jobs/content/en/job-categories/administrative-support,yes,yes,"auto: no known platform – generic careers page, check it"
+Google South Africa,Technology,Private,google.com/about/careers,html,https://www.google.com/about/careers/applications/jobs/students,yes,yes,"auto: no known platform – generic careers page, check it"
+SAP Africa,Technology,Private,sap.com,successfactors,https://jobs.sap.com/search/,yes,no,fix: career site blocks automated visitors
 Entelect,Technology,Private,entelect.co.za,html,https://culture.entelect.com/graduates,no,yes,"auto: no known platform – generic careers page, check it"
 BBD,Technology,Private,bbd.co.za,html,https://bbdsoftware.com/why-join-bbd/,yes,yes,"auto: no known platform – generic careers page, check it"
 EPI-USE,Technology,Private,epiuselabs.com,html,https://epiuselabs.com/south-african-graduate-programme,yes,yes,seeded: graduate programme page
@@ -59,23 +59,23 @@ Synthesis Software Technologies,Technology,Private,synthesis.co.za,html,https://
 Mimecast,Technology,Private,mimecast.com,,,yes,yes,auto: no suitable careers page found – fill in by hand
 Clickatell,Technology,Private,clickatell.com,workable,clickatell,yes,yes,seeded: Workable board seen Nov 2026
 Electrum,Technology,Private,electrum.co.za,html,https://www.electrumsoftware.com/careers/internship-programme,no,yes,"auto: no known platform – generic careers page, check it"
-Khanyisa Real Systems (KRS),Technology,Private,krs.co.za,html,https://krs.co.za/careers/#roles,no,yes,"auto: no known platform – generic careers page, check it"
-FDM Group,Technology,Private,fdmgroup.com,html,https://careers.fdmgroup.com/vacancies/vacancy-apply.aspx?VacancyID=3392,yes,yes,"auto: no known platform – generic careers page, check it"
+Khanyisa Real Systems (KRS),Technology,Private,krs.co.za,html,https://krs.co.za/careers,no,yes,"auto: no known platform – generic careers page, check it"
+FDM Group,Technology,Private,fdmgroup.com,html,https://www.fdmgroup.com/fr-ca/ca-fr-candidates/career-development-program/,yes,yes,"auto: no known platform – generic careers page, check it"
 Retro Rabbit,Technology,Private,retrorabbit.co.za,,,no,yes,auto: no suitable careers page found – fill in by hand
 Altron,Technology,Private,altron.com,html,https://www.altron.com/careers#main-content,no,yes,"auto: no known platform – generic careers page, check it"
 iOCO,Technology,Private,ioco.tech,,,no,yes,auto: website blocks automated visitors – add its job portal by hand – fill in by hand
-Adapt IT,Technology,Private,adaptit.com,html,https://www.adaptit.com/careers#working-at-adaptit,no,yes,"auto: no known platform – generic careers page, check it"
+Adapt IT,Technology,Private,adaptit.com,html,https://www.adaptit.com/careers#Learnerships,no,yes,"auto: no known platform – generic careers page, check it"
 Yoco,Technology,Private,yoco.com,html,https://www.yoco.com/za/careers/open-roles/,no,yes,"auto: no known platform – generic careers page, check it"
 Samsung (Software Development Programme via Tshimologong),Technology,Private,samsung.com,workday,https://sec.wd3.myworkdayjobs.com/Samsung_Careers,yes,yes,auto: found on https://www.samsung.com/us/careers/
 Mecer Inter-Ed,Technology,Private,mecerintered.co.za,,,no,yes,auto: no suitable careers page found – fill in by hand
 Huawei South Africa,Technology,Private,huawei.com,html,https://career.huawei.com/en,yes,yes,"auto: no known platform – generic careers page, check it"
-Liquid Intelligent Technologies,Technology,Private,liquid.tech,html,https://liquid.tech/es/careers/,yes,yes,"auto: no known platform – generic careers page, check it"
+Liquid Intelligent Technologies,Technology,Private,liquid.tech,html,https://liquid.tech/careers/,yes,yes,"auto: no known platform – generic careers page, check it"
 Naspers / Prosus,Technology,Private,naspers.com,,,yes,yes,auto: website blocks automated visitors – add its job portal by hand – fill in by hand
 SITA,Technology,Public / SOE,sita.co.za,,,no,yes,auto: website did not load – fill in by hand
 Vodacom,Telecommunications,Private,vodacom.co.za,successfactors,https://opportunities.vodafone.com/Vodacom/search/,yes,yes,seeded: Vodafone career site – verify on first run
 MTN South Africa,Telecommunications,Private,mtn.co.za,html,https://www.mtn.co.za/careers,yes,yes,"auto: no known platform – generic careers page, check it"
 Telkom,Telecommunications,Private,telkom.co.za,,,no,yes,auto: no suitable careers page found – fill in by hand
-Cell C,Telecommunications,Private,cellc.co.za,html,https://www.cellc.co.za/cellc/careers#top-scroll,no,yes,"auto: no known platform – generic careers page, check it"
+Cell C,Telecommunications,Private,cellc.co.za,html,https://www.cellc.co.za/cellc/careers,no,yes,"auto: no known platform – generic careers page, check it"
 Sentech,Telecommunications,Public / SOE,sentech.co.za,,,no,yes,auto: no suitable careers page found – fill in by hand
 MultiChoice,Media,Private,multichoice.com,html,https://www.multichoice.com/careers/life-at-multichoice.php,yes,yes,auto: uses Taleo (no dedicated reader yet)
 Media24,Media,Private,media24.com,html,https://www.media24.com/af/digitaal/careers-24/,no,yes,"auto: no known platform – generic careers page, check it"
@@ -86,9 +86,9 @@ Valterra Platinum (formerly Anglo American Platinum),Mining & Resources,Private,
 Kumba Iron Ore,Mining & Resources,Private,angloamericankumba.com,,,yes,yes,auto: website blocks automated visitors – add its job portal by hand – fill in by hand
 De Beers,Mining & Resources,Private,debeersgroup.com,,,yes,yes,auto: website blocks automated visitors – add its job portal by hand – fill in by hand
 Exxaro,Mining & Resources,Private,exxaro.com,html,https://www.exxaro.com/careers/student-hub/,no,yes,"auto: no known platform – generic careers page, check it"
-Sibanye-Stillwater,Mining & Resources,Private,sibanyestillwater.com,html,https://www.sibanyestillwater.com/careers/australia/,yes,yes,"auto: no known platform – generic careers page, check it"
+Sibanye-Stillwater,Mining & Resources,Private,sibanyestillwater.com,html,https://www.sibanyestillwater.com/careers/south-africa/#wp--skip-link--target,yes,yes,"auto: no known platform – generic careers page, check it"
 Impala Platinum (Implats),Mining & Resources,Private,implats.co.za,html,https://www.implats.co.za/careers.php,yes,yes,"auto: no known platform – generic careers page, check it"
-Harmony Gold,Mining & Resources,Private,harmony.co.za,html,https://www.harmony.co.za/careers/opportunities-for-students/,yes,yes,"auto: no known platform – generic careers page, check it"
+Harmony Gold,Mining & Resources,Private,harmony.co.za,html,https://www.harmony.co.za/careers/opportunities-for-students/#wp--skip-link--target,yes,yes,"auto: no known platform – generic careers page, check it"
 Gold Fields,Mining & Resources,Private,goldfields.com,,,yes,yes,auto: website did not load – fill in by hand
 AngloGold Ashanti,Mining & Resources,Private,anglogoldashanti.com,successfactors,https://careers.anglogoldashanti.com/search/,yes,yes,auto: career site at https://careers.anglogoldashanti.com/
 Glencore,Mining & Resources,Private,glencore.com,workday,https://glencorecorp.wd3.myworkdayjobs.com/External,yes,yes,auto: found on https://www.glencore.com/en/careers/early-careers
@@ -99,7 +99,7 @@ African Rainbow Minerals (ARM),Mining & Resources,Private,arm.co.za,html,https:/
 Northam Platinum,Mining & Resources,Private,northam.co.za,html,https://northam.co.za/careers-at-northam#nav,no,yes,"auto: no known platform – generic careers page, check it"
 Samancor Chrome,Mining & Resources,Private,samancorcr.com,html,https://samancor.mcidirecthire.com/default/External/CurrentOpportunities?Ref=TEkBhDYErs0qhHgueWeCgt_yRI-cnPLR1MRk1RR6CprzB-U-2v9zdrDRc_O8UHXm#collapse2,no,yes,"auto: no known platform – generic careers page, check it"
 Sasol,Energy & Chemicals,Private,sasol.com,html,https://career012.successfactors.eu/career?company=SASOLINTPROD,yes,yes,auto: old SuccessFactors site – set USE_BROWSER=1; find newer portal if any
-Eskom,Energy & Chemicals,Public / SOE,eskom.co.za,html,https://www.eskom.co.za/eskom-convenes-ipps-to-accelerate-new-energy-market-opportunities/,no,yes,"auto: no known platform – generic careers page, check it"
+Eskom,Energy & Chemicals,Public / SOE,eskom.co.za,html,https://www.eskom.co.za/eskom-convenes-ipps-to-accelerate-new-energy-market-opportunities/#main,no,yes,"auto: no known platform – generic careers page, check it"
 Engen,Energy & Chemicals,Private,engen.co.za,html,https://www.engen.co.za/careers,yes,yes,"auto: no known platform – generic careers page, check it"
 Astron Energy,Energy & Chemicals,Private,astronenergy.co.za,workday,https://glencore.wd3.myworkdayjobs.com/en-US/astronenergy,no,yes,auto: found on https://www.astronenergy.co.za/
 AECI,Energy & Chemicals,Private,aeciworld.com,successfactors,https://jobs.aeciworld.com/search/,yes,yes,auto: career site at https://jobs.aeciworld.com
@@ -114,21 +114,21 @@ Procter & Gamble South Africa,Manufacturing & FMCG,Private,pg.com,workday,https:
 Colgate-Palmolive South Africa,Manufacturing & FMCG,Private,colgatepalmolive.com,successfactors,https://jobs.colgate.com/search/,yes,yes,auto: career site at https://jobs.colgate.com/
 L'Oréal South Africa,Manufacturing & FMCG,Private,loreal.com,html,https://careers.loreal.com/en/internship-apprenticeship,yes,yes,"auto: no known platform – generic careers page, check it"
 PepsiCo South Africa,Manufacturing & FMCG,Private,pepsico.com,html,https://www.pepsicojobs.com/main/,yes,yes,auto: uses iCIMS (no dedicated reader yet)
-RCL Foods,Manufacturing & FMCG,Private,rclfoods.com,html,https://rclfoods.com/discover-our-opportunities/#Marketing,no,yes,"auto: no known platform – generic careers page, check it"
+RCL Foods,Manufacturing & FMCG,Private,rclfoods.com,html,https://rclfoods.com/discover-our-opportunities/#IndustrialEngineering,no,yes,"auto: no known platform – generic careers page, check it"
 AVI Limited,Manufacturing & FMCG,Private,avi.co.za,,,no,yes,auto: website blocks automated visitors – add its job portal by hand – fill in by hand
-Clover,Manufacturing & FMCG,Private,clover.co.za,html,https://clover.graduate.erecruit.co/candidateapp/Jobs/Categories/Graduate_Programme/c0e90073ccc84bdbba5cfd6481a9c378,no,yes,"auto: no known platform – generic careers page, check it"
-Astral Foods,Manufacturing & FMCG,Private,astralfoods.com,html,https://www.trending-talent.com/home/CompanyVacancies?Company=Meadow Feeds,no,yes,"auto: no known platform – generic careers page, check it"
+Clover,Manufacturing & FMCG,Private,clover.co.za,html,https://clover.graduate.erecruit.co/candidateapp/Jobs/Categories/Internships/53ca4bf34aad463399569ef5d43b604f,no,yes,"auto: no known platform – generic careers page, check it"
+Astral Foods,Manufacturing & FMCG,Private,astralfoods.com,html,https://www.trending-talent.com/home/Vacancies.aspx,no,yes,"auto: no known platform – generic careers page, check it"
 Premier FMCG,Manufacturing & FMCG,Private,premierfmcg.com,html,https://www.premierfmcg.com/careers,no,yes,"auto: no known platform – generic careers page, check it"
 Illovo Sugar,Manufacturing & FMCG,Private,illovosugarafrica.com,,,yes,yes,auto: website did not load – fill in by hand
 Mondi,Manufacturing & FMCG,Private,mondigroup.com,html,https://www.mondigroup.com/careers/meet-our-people/supporting-our-peoples-journey-of-growth-sruthis-career-path-from-intern-and-student-to-manager/,yes,yes,"auto: no known platform – generic careers page, check it"
 Sappi,Manufacturing & FMCG,Private,sappi.com,,,yes,yes,auto: website blocks automated visitors – add its job portal by hand – fill in by hand
-PPC,Manufacturing & FMCG,Private,ppc.africa,html,https://ppc.graduate.erecruit.co/candidateapp/Jobs/Categories/Students/60509928394d4d7d96c3dd72f2beb803,yes,yes,"auto: no known platform – generic careers page, check it"
-ArcelorMittal South Africa,Manufacturing & FMCG,Private,arcelormittalsa.com,html,https://arcelormittalsa.ci.hr,yes,yes,"auto: no known platform – generic careers page, check it"
-Aspen Pharmacare,Health & Pharma,Private,aspenpharma.com,html,https://aspen.mcidirecthire.com/External/CurrentOpportunities?Ref=joF%2fKx6Z3zaVC0XL1w04v6o3eRiDRGDpBv4iICIJAFbr9SUUlqN339hSgkrhiByfaANWALFfpIT3LfbQhEdrmA%3d%3d,yes,yes,"auto: no known platform – generic careers page, check it"
+PPC,Manufacturing & FMCG,Private,ppc.africa,html,https://ppc.graduate.erecruit.co/candidateapp/Jobs/Categories/Learnerships/2e57a45d8be64b4e87491ef9c29e368f,yes,yes,"auto: no known platform – generic careers page, check it"
+ArcelorMittal South Africa,Manufacturing & FMCG,Private,arcelormittalsa.com,html,https://arcelormittalsa.ci.hr/applicant/index.php?controller=Page&name=jobsearch,yes,yes,"auto: no known platform – generic careers page, check it"
+Aspen Pharmacare,Health & Pharma,Private,aspenpharma.com,html,https://www.aspenpharma.com/careers-at-aspen/aspen-jobs/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijg4NCIsInRvZ2dsZSI6ZmFsc2V9,yes,yes,"auto: no known platform – generic careers page, check it"
 Adcock Ingram,Health & Pharma,Private,adcock.com,html,https://www.adcock.com/careers,no,yes,"auto: no known platform – generic careers page, check it"
 Netcare,Health & Pharma,Private,netcare.co.za,workday,https://netcare.wd103.myworkdayjobs.com/Netcareexternal,no,yes,auto: found on https://www.netcare.co.za/Careers
 Mediclinic Southern Africa,Health & Pharma,Private,mediclinic.co.za,successfactors,https://careers.mediclinic.com/search/,yes,yes,auto: career site at https://careers.mediclinic.com/DoctorOpportunities/go/Search-By-Keyword-DPO/5074001/
-Life Healthcare,Health & Pharma,Private,lifehealthcare.co.za,html,https://www.lifehealthcare.co.za/specialist-practice-opportunities/#opportunities_modal,no,yes,"auto: no known platform – generic careers page, check it"
+Life Healthcare,Health & Pharma,Private,lifehealthcare.co.za,html,https://www.lifehealthcare.co.za/careers/vacancies/,no,yes,"auto: no known platform – generic careers page, check it"
 NHLS,Health & Pharma,Public / SOE,nhls.ac.za,html,https://www.nhls.ac.za/careers/#content,no,yes,"auto: no known platform – generic careers page, check it"
 Toyota South Africa,Automotive,Private,toyota.co.za,successfactors,https://jobs.toyota.co.za/search/,no,yes,auto: career site at https://jobs.toyota.co.za/
 BMW South Africa,Automotive,Private,bmw.co.za,,,yes,yes,auto: website did not load – fill in by hand
@@ -136,12 +136,12 @@ Mercedes-Benz South Africa,Automotive,Private,mercedes-benz.co.za,,,yes,yes,auto
 Volkswagen Group South Africa,Automotive,Private,vw.co.za,successfactors,https://jobs.volkswagen-group.com/search/,yes,yes,auto: career site at https://jobs.volkswagen-group.com/?locale=en_GB
 Ford Motor Company of Southern Africa,Automotive,Private,ford.co.za,,,yes,yes,auto: website blocks automated visitors – add its job portal by hand – fill in by hand
 Bosch South Africa,Automotive,Private,bosch.co.za,,,yes,yes,auto: website did not load – fill in by hand
-Motus Holdings,Automotive,Private,motus.co.za,html,https://www.motus.co.za/careers/,yes,yes,"auto: no known platform – generic careers page, check it"
-Super Group,Transport & Logistics,Private,supergroup.co.za,html,https://www.supergroup.co.za/careers#site-header,yes,yes,"auto: no known platform – generic careers page, check it"
+Motus Holdings,Automotive,Private,motus.co.za,html,https://www.motus.co.za/careers/#cd-search,yes,yes,"auto: no known platform – generic careers page, check it"
+Super Group,Transport & Logistics,Private,supergroup.co.za,html,https://www.supergroup.co.za/careers#main,yes,yes,"auto: no known platform – generic careers page, check it"
 Transnet,Transport & Logistics,Public / SOE,transnet.net,html,https://www.transnet.net/Careers,no,yes,"auto: no known platform – generic careers page, check it"
 DHL,Transport & Logistics,Private,dhl.com,,,yes,yes,auto: website did not load – fill in by hand
 DP World / Imperial Logistics,Transport & Logistics,Private,dpworld.com,oracle,https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1,yes,yes,auto: found on https://www.dpworld.com/en/careers/vacancies
-Maersk,Transport & Logistics,Private,maersk.com,html,https://www.maersk.com/careers/our-teams/students-graduates,yes,yes,"auto: no known platform – generic careers page, check it"
+Maersk,Transport & Logistics,Private,maersk.com,html,https://www.maersk.com/careers/our-teams/students-graduates/management-trainee-program,yes,yes,"auto: no known platform – generic careers page, check it"
 Grindrod,Transport & Logistics,Private,grindrod.com,html,https://www.grindrod.com/careers,yes,yes,"auto: no known platform – generic careers page, check it"
 Bidvest Group,Transport & Logistics,Private,bidvest.co.za,html,https://bidvest.co.za/careers,yes,yes,"auto: no known platform – generic careers page, check it"
 Barloworld,Transport & Logistics,Private,barloworld.com,,,yes,yes,auto: website did not load – fill in by hand
@@ -151,29 +151,29 @@ PRASA,Transport & Logistics,Public / SOE,prasa.com,,,no,yes,auto: website did no
 SANRAL,Transport & Logistics,Public / SOE,nra.co.za,html,https://www.nra.co.za/sanral-careers/list/open-vacancies,no,yes,"auto: no known platform – generic careers page, check it"
 Shoprite Group,Retail,Private,shopriteholdings.co.za,html,https://shoprite.erecruit.co/candidateapp/jobs/browse/,yes,yes,fix: Shoprite eRecruit portal
 Pick n Pay,Retail,Private,picknpay.co.za,html,https://www.pnp.co.za/careers,no,yes,"auto: no known platform – generic careers page, check it"
-Woolworths,Retail,Private,woolworths.co.za,html,https://woolworths.erecruit.co/candidateapp/Jobs/Categories/Foods%E2%80%8B/d343fcc5a79d406bbaacd73aba63eefc,no,yes,"auto: no known platform – generic careers page, check it"
+Woolworths,Retail,Private,woolworths.co.za,html,https://woolworths.erecruit.co/candidateapp/Jobs/Categories/Digital_-_Tech%E2%80%8B/2497247ed3fa447390d8f64779351f5b,no,yes,"auto: no known platform – generic careers page, check it"
 TFG (The Foschini Group),Retail,Private,tfg.co.za,,,yes,yes,auto: no suitable careers page found – fill in by hand
 Mr Price Group,Retail,Private,mrpricegroup.com,oracle,https://fa-etyi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001,yes,yes,auto: found on https://mrpricegroup.com/careers/
-Pepkor,Retail,Private,pepkor.co.za,html,https://speciality.erecruit.co/candidateapp/Jobs/Categories/Marketing/0c58fbf1cd93425abe53d7a5c4fd414e,yes,yes,"auto: no known platform – generic careers page, check it"
-SPAR Group,Retail,Private,spar.co.za,html,https://spar.pnet.co.za/,yes,yes,"auto: no known platform – generic careers page, check it"
+Pepkor,Retail,Private,pepkor.co.za,html,https://speciality.erecruit.co/candidateapp/Jobs/Categories/Human_Resources/2ebc7d28d5c64f128840c0a7195391f7,yes,yes,"auto: no known platform – generic careers page, check it"
+SPAR Group,Retail,Private,spar.co.za,html,https://spar.pnet.co.za/admin/index.php,yes,yes,"auto: no known platform – generic careers page, check it"
 Clicks Group,Retail,Private,clicksgroup.co.za,html,https://careers.clicksgroup.co.za/applicant/index.php?controller=Page&name=jobsearch,no,yes,"auto: no known platform – generic careers page, check it"
 Dis-Chem,Retail,Private,dischem.co.za,,,no,yes,auto: website blocks automated visitors – add its job portal by hand – fill in by hand
 Massmart (Walmart),Retail,Private,massmart.co.za,,,yes,yes,auto: no suitable careers page found – fill in by hand
 Truworths,Retail,Private,truworths.co.za,,,yes,yes,auto: website blocks automated visitors – add its job portal by hand – fill in by hand
 Zutari,Engineering & Built Environment,Private,zutari.com,,,yes,yes,auto: website blocks automated visitors – add its job portal by hand – fill in by hand
 WSP Africa,Engineering & Built Environment,Private,wsp.com,,,yes,yes,auto: website blocks automated visitors – add its job portal by hand – fill in by hand
-AECOM,Engineering & Built Environment,Private,aecom.com,html,https://aecom.com/careers/graduates-and-early-careers/india/,yes,yes,"auto: no known platform – generic careers page, check it"
+AECOM,Engineering & Built Environment,Private,aecom.com,html,https://aecom.com/careers/graduates-and-early-careers/#cookie-settings,yes,yes,"auto: no known platform – generic careers page, check it"
 Hatch,Engineering & Built Environment,Private,hatch.com,successfactors,https://jobs.hatch.com/search/,yes,yes,auto: career site at https://jobs.hatch.com/
 GIBB,Engineering & Built Environment,Private,gibb.co.za,html,https://gibbjobs.mcidirecthire.com/Vacancy,no,yes,"auto: no known platform – generic careers page, check it"
-WBHO,Engineering & Built Environment,Private,wbho.co.za,html,https://www.wbho.co.za/careers-and-students/#slide-out-widget-area,yes,yes,"auto: no known platform – generic careers page, check it"
+WBHO,Engineering & Built Environment,Private,wbho.co.za,html,https://www.wbho.co.za/careers-and-students/,yes,yes,"auto: no known platform – generic careers page, check it"
 Raubex Group,Engineering & Built Environment,Private,raubex.com,html,https://raubex.com/careers/,no,yes,"auto: no known platform – generic careers page, check it"
-Growthpoint Properties,Engineering & Built Environment,Private,growthpoint.co.za,html,https://growthpoint.mcidirecthire.com/External/CurrentOpportunities#collapse2,yes,yes,"auto: no known platform – generic careers page, check it"
+Growthpoint Properties,Engineering & Built Environment,Private,growthpoint.co.za,html,https://www.growthpoint.co.za/careers,yes,yes,"auto: no known platform – generic careers page, check it"
 Redefine Properties,Engineering & Built Environment,Private,redefine.co.za,html,https://redefine.co.za/careers,yes,yes,"auto: no known platform – generic careers page, check it"
 ENSafrica,Law,Private,ensafrica.com,successfactors,https://careers.ensafrica.com/search/,yes,yes,auto: career site at https://careers.ensafrica.com/careers
 Webber Wentzel,Law,Private,webberwentzel.com,html,https://www.webberwentzel.com/careers,no,yes,"auto: no known platform – generic careers page, check it"
-Bowmans,Law,Private,bowmanslaw.com,html,https://bowmanslaw.com/career-opportunities/#our-vacancies,yes,yes,"auto: no known platform – generic careers page, check it"
-Cliffe Dekker Hofmeyr,Law,Private,cliffedekkerhofmeyr.com,html,https://www.cliffedekkerhofmeyr.com/careers/?geo=NA,no,yes,"auto: no known platform – generic careers page, check it"
-Werksmans Attorneys,Law,Private,werksmans.com,html,https://werksmans.com/graduates/why-choose-us/#content,no,yes,"auto: no known platform – generic careers page, check it"
+Bowmans,Law,Private,bowmanslaw.com,html,https://bowmanslaw.com/career-opportunities/#jupiterx-main,yes,yes,"auto: no known platform – generic careers page, check it"
+Cliffe Dekker Hofmeyr,Law,Private,cliffedekkerhofmeyr.com,html,https://www.cliffedekkerhofmeyr.com/careers/?geo=KE,no,yes,"auto: no known platform – generic careers page, check it"
+Werksmans Attorneys,Law,Private,werksmans.com,html,https://werksmans.com/graduates/why-choose-us/,no,yes,"auto: no known platform – generic careers page, check it"
 Norton Rose Fulbright South Africa,Law,Private,nortonrosefulbright.com,workday,https://nrf.wd3.myworkdayjobs.com/External,yes,yes,auto: found on https://www.nortonrosefulbright.com/en-us/careers
 Baker McKenzie Johannesburg,Law,Private,bakermckenzie.com,html,https://www.bakermckenzie.com/en/careers#maincontent,yes,yes,"auto: no known platform – generic careers page, check it"
 Adams & Adams,Law,Private,adams.africa,html,https://adamsadams.mcidirecthire.com/graduate/external/currentopportunities#collapse2,yes,yes,"auto: no known platform – generic careers page, check it"
@@ -183,40 +183,40 @@ DPSA (Public Service vacancy circulars),Government,Public / SOE,dpsa.gov.za,dpsa
 Gauteng Provincial Government,Government,Public / SOE,gauteng.gov.za,,,no,yes,auto: website did not load – fill in by hand
 DIRCO (International Relations & Cooperation),Government,Public / SOE,dirco.gov.za,successfactors,https://jobs.au.int/search/,no,yes,auto: career site at https://jobs.au.int/
 Statistics South Africa (Stats SA),Government,Public / SOE,statssa.gov.za,html,https://www.statssa.gov.za/vacancies/StatsSA_27_February_2015.pdf?10,no,yes,"auto: no known platform – generic careers page, check it"
-Department of Trade Industry & Competition (dtic),Government,Public / SOE,thedtic.gov.za,html,https://www.thedtic.gov.za/board-ceo-commissioners-vacancies/,no,yes,"auto: no known platform – generic careers page, check it"
+Department of Trade Industry & Competition (dtic),Government,Public / SOE,thedtic.gov.za,html,https://www.thedtic.gov.za/sectors-and-services-2/1-4-2-trade-and-export/export-development-and-promotion/export-opportunities/#content,no,yes,"auto: no known platform – generic careers page, check it"
 Department of Science Technology & Innovation (DSTI),Government,Public / SOE,dsti.gov.za,html,https://www.dsti.gov.za/vacancies,no,yes,"auto: no known platform – generic careers page, check it"
-Parliament of South Africa,Government,Public / SOE,parliament.gov.za,html,https://www.parliament.gov.za/job-alert-researcher-portfolio-committee-agriculture-irc8916,no,yes,"auto: no known platform – generic careers page, check it"
-GCIS,Government,Public / SOE,gcis.gov.za,html,https://www.gcis.gov.za/content/about-us/hr/vacancies#human,no,yes,"auto: no known platform – generic careers page, check it"
+Parliament of South Africa,Government,Public / SOE,parliament.gov.za,html,https://www.parliament.gov.za/careers-parliament#opportunities,no,yes,"auto: no known platform – generic careers page, check it"
+GCIS,Government,Public / SOE,gcis.gov.za,html,https://www.gcis.gov.za/content/about-us/hr/vacancies,no,yes,"auto: no known platform – generic careers page, check it"
 Electoral Commission (IEC),Government,Public / SOE,elections.org.za,html,https://www.elections.org.za/pw/About-Us/BrowseJobs#MainContent_tvLocationFilter_SkipLink,no,yes,"auto: no known platform – generic careers page, check it"
 Competition Commission,Government,Public / SOE,compcom.co.za,html,https://compcom.mcidirecthire.com/graduate/external/currentopportunities,no,yes,"auto: no known platform – generic careers page, check it"
-CIPC,Government,Public / SOE,cipc.co.za,html,https://cipc.erecruit.co/candidateapp/Jobs/Categories/Graduate_Internship/83256440955442349c98cb2a89c4f8e1#0,no,yes,"auto: no known platform – generic careers page, check it"
-National Youth Development Agency (NYDA),Government,Public / SOE,nyda.gov.za,html,https://www.nyda.gov.za/Opportunities/SA-Youth-Network.html,no,yes,"auto: no known platform – generic careers page, check it"
+CIPC,Government,Public / SOE,cipc.co.za,html,https://cipc.erecruit.co/candidateapp/Jobs/Categories/Internal_Audit/f9517b8068ec439eb8d03520d0a257f8#0,no,yes,"auto: no known platform – generic careers page, check it"
+National Youth Development Agency (NYDA),Government,Public / SOE,nyda.gov.za,html,https://www.nyda.gov.za/Opportunities/SA-Youth-Network.html#_,no,yes,"auto: no known platform – generic careers page, check it"
 City of Johannesburg,Municipality,Public / SOE,joburg.org.za,,,no,yes,auto: no suitable careers page found – fill in by hand
 City of Ekurhuleni,Municipality,Public / SOE,ekurhuleni.gov.za,,,no,yes,auto: website did not load – fill in by hand
 City of Tshwane,Municipality,Public / SOE,tshwane.gov.za,,,no,yes,auto: website did not load – fill in by hand
-City of Cape Town,Municipality,Public / SOE,capetown.gov.za,html,https://www.capetown.gov.za/city-connect/apply/jobs-and-opportunities/apply-for-the-urban-sustainability-internship-programme/,no,yes,"auto: no known platform – generic careers page, check it"
+City of Cape Town,Municipality,Public / SOE,capetown.gov.za,html,https://www.capetown.gov.za/city-connect/apply/jobs-and-opportunities/graduate-development-programme-for-engineers/,no,yes,"auto: no known platform – generic careers page, check it"
 eThekwini Municipality,Municipality,Public / SOE,durban.gov.za,,,no,yes,auto: website did not load – fill in by hand
 Rand Water,Municipality,Public / SOE,randwater.co.za,,,no,yes,auto: website did not load – fill in by hand
-Industrial Development Corporation (IDC),Development Finance & Research,Public / SOE,idc.co.za,html,https://www.idc.co.za/careers/paia-manual,no,yes,"auto: no known platform – generic careers page, check it"
+Industrial Development Corporation (IDC),Development Finance & Research,Public / SOE,idc.co.za,html,https://www.idc.co.za/careers/,no,yes,"auto: no known platform – generic careers page, check it"
 Development Bank of Southern Africa (DBSA),Development Finance & Research,Public / SOE,dbsa.org,html,https://dbsa.erecruit.co/candidateapp/Jobs/Categories/Graduate_and_Internship_Programmes/d9f2eb98b9b74492a51978925302aa89,no,yes,"auto: no known platform – generic careers page, check it"
-Land Bank,Development Finance & Research,Public / SOE,landbank.co.za,html,https://landbank.erecruit.co:443/candidateapp/Jobs/Categories/Finance/38d7981f1b984951a08e1a742c436a86,no,yes,"auto: no known platform – generic careers page, check it"
-National Empowerment Fund (NEF),Development Finance & Research,Public / SOE,nefcorp.co.za,,,no,yes,auto: website blocks automated visitors – add its job portal by hand – fill in by hand
-CSIR,Development Finance & Research,Public / SOE,csir.co.za,html,https://www.csir.co.za/careers/students-graduates#main-content,no,yes,"auto: no known platform – generic careers page, check it"
+Land Bank,Development Finance & Research,Public / SOE,landbank.co.za,html,https://landbank.erecruit.co:443/candidateapp/Jobs/Categories/Administration/1805ff0b39c44477b19318f2eba2a3e9,no,yes,"auto: no known platform – generic careers page, check it"
+National Empowerment Fund (NEF),Development Finance & Research,Public / SOE,nefcorp.co.za,html,https://nefcareers.ci.hr/admin/index.php,no,yes,"auto: no known platform – generic careers page, check it"
+CSIR,Development Finance & Research,Public / SOE,csir.co.za,html,https://www.csir.co.za/careers/students-graduates/internships#main-content,no,yes,"auto: no known platform – generic careers page, check it"
 HSRC,Development Finance & Research,Public / SOE,hsrc.ac.za,html,https://hsrc.ac.za/hsrc-internship-programme/,no,yes,seeded: internship page
-National Research Foundation (NRF),Development Finance & Research,Public / SOE,nrf.ac.za,html,https://www.nrf.ac.za/category/non-nrf-opportunities/page/3/,no,yes,"auto: no known platform – generic careers page, check it"
-Mintek,Development Finance & Research,Public / SOE,mintek.co.za,html,https://mintek.co.za/careers/internship.html,no,yes,"auto: no known platform – generic careers page, check it"
-Necsa,Development Finance & Research,Public / SOE,necsa.co.za,html,https://necsa.mcidirecthire.com/default/External/CurrentOpportunities?Ref=TEkBhDYErs0qhHgueWeCgt_yRI-cnPLR1MRk1RR6CprzB-U-2v9zdrDRc_O8UHXm,no,yes,"auto: no known platform – generic careers page, check it"
-Water Research Commission,Development Finance & Research,Public / SOE,wrc.org.za,html,https://www.wrc.org.za/rdi-opportunities/appointment-of-a-panel-of-experts-to-support-water-and-sanitation-research-development-and-innovation-projects/,no,yes,"auto: no known platform – generic careers page, check it"
-SANSA (SA National Space Agency),Development Finance & Research,Public / SOE,sansa.org.za,html,https://sansa.mcidirecthire.com/Learnership/External/CurrentOpportunities?Ref=,no,yes,"auto: no known platform – generic careers page, check it"
+National Research Foundation (NRF),Development Finance & Research,Public / SOE,nrf.ac.za,html,https://www.nrf.ac.za/category/non-nrf-opportunities/page/1/,no,yes,"auto: no known platform – generic careers page, check it"
+Mintek,Development Finance & Research,Public / SOE,mintek.co.za,html,https://mintek.co.za/careers/careers/internship.html,no,yes,"auto: no known platform – generic careers page, check it"
+Necsa,Development Finance & Research,Public / SOE,necsa.co.za,html,https://necsa.mcidirecthire.com/external/currentopportunities,no,yes,"auto: no known platform – generic careers page, check it"
+Water Research Commission,Development Finance & Research,Public / SOE,wrc.org.za,html,https://www.wrc.org.za/rdi-opportunities/wrc-2027-2028-call-for-concept-notes-proposals/,no,yes,"auto: no known platform – generic careers page, check it"
+SANSA (SA National Space Agency),Development Finance & Research,Public / SOE,sansa.org.za,html,https://sansa.mcidirecthire.com/Learnership/External/CurrentOpportunities?Ref=TEkBhDYErs0qhHgueWeCgt_yRI-cnPLR1MRk1RR6CprzB-U-2v9zdrDRc_O8UHXm,no,yes,"auto: no known platform – generic careers page, check it"
 Bureau for Economic Research (BER) with SARB,Development Finance & Research,Public / SOE,ber.ac.za,,,no,yes,auto: no suitable careers page found – fill in by hand
 SANParks,Development Finance & Research,Public / SOE,sanparks.org,,,no,yes,auto: website blocks automated visitors – add its job portal by hand – fill in by hand
-Brand South Africa,Development Finance & Research,Public / SOE,brandsouthafrica.com,html,https://www.brandsouthafrica.com/vacancies/#main,no,yes,"auto: no known platform – generic careers page, check it"
+Brand South Africa,Development Finance & Research,Public / SOE,brandsouthafrica.com,html,https://www.brandsouthafrica.com/vacancies/,no,yes,"auto: no known platform – generic careers page, check it"
 Armscor,Development Finance & Research,Public / SOE,armscor.co.za,html,https://armscor.co.za/internship/,no,yes,"auto: no known platform – generic careers page, check it"
 YES (Youth Employment Service),Youth employment platform,Platform / Intermediary,yes4youth.co.za,html,https://www.yes4youth.co.za/hubfs/Responsible%20Job%20Creation%20and%20Ethical%20Partnerships%20%20Anti-Gambling%20Position%20Statement.pdf?hsLang=en,no,yes,"auto: no known platform – generic careers page, check it"
 Harambee Youth Employment Accelerator,Youth employment platform,Platform / Intermediary,harambee.co.za,html,https://www.harambee.co.za/careers/,no,yes,auto: uses BambooHR (no dedicated reader yet)
-BANKSETA,SETA,Public / SOE,bankseta.org.za,html,https://bankseta.org.za/vacancies/,no,yes,"auto: no known platform – generic careers page, check it"
-MICT SETA,SETA,Public / SOE,mict.org.za,html,https://mict.org.za/available-vacancies/,no,yes,"auto: no known platform – generic careers page, check it"
-Services SETA,SETA,Public / SOE,serviceseta.org.za,html,https://servicesseta.mcidirecthire.com/external/currentopportunities,no,yes,"auto: no known platform – generic careers page, check it"
+BANKSETA,SETA,Public / SOE,bankseta.org.za,html,https://bankseta.org.za/vacancies/#content,no,yes,"auto: no known platform – generic careers page, check it"
+MICT SETA,SETA,Public / SOE,mict.org.za,html,https://mict.org.za/expired-vacancies/,no,yes,"auto: no known platform – generic careers page, check it"
+Services SETA,SETA,Public / SOE,serviceseta.org.za,html,https://servicesseta.mcidirecthire.com/default/External/CurrentOpportunities?Ref=TEkBhDYErs0qhHgueWeCgt_yRI-cnPLR1MRk1RR6CprzB-U-2v9zdrDRc_O8UHXm,no,yes,"auto: no known platform – generic careers page, check it"
 FASSET,SETA,Public / SOE,fasset.org.za,html,https://www.fasset.org.za/careers,no,yes,"auto: no known platform – generic careers page, check it"
 merSETA,SETA,Public / SOE,merseta.org.za,html,https://www.merseta.org.za/recruitment/,no,yes,"auto: no known platform – generic careers page, check it"
 W&RSETA,SETA,Public / SOE,wrseta.org.za,,,no,yes,auto: website did not load – fill in by hand
