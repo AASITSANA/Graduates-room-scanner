@@ -1,0 +1,63 @@
+"""Catch-all reader for careers pages that are not on a known platform.
+
+It reads the page (with a real browser if USE_BROWSER=1, for pages built with JavaScript),
+keeps only links whose text looks like a graduate opportunity, then opens each one to read the ad.
+Because it only keeps clearly graduate-worded links, it is precise but can miss jobs with
+plain titles. Move a company to a platform reader when you find its real portal.
+"""
+import os
+import re
+from urllib.parse import urljoin, urlparse
+
+from bs4 import BeautifulSoup
+
+from .. import http
+from ..models import RawJob
+from ..text import html_to_text, find_closing_date
+from ..filter import GRAD_TITLE_RE
+
+MAX_LINKS = 25
+
+
+def _page_html(url: str) -> str:
+    if os.environ.get("USE_BROWSER") == "1":
+        try:
+            from playwright.sync_api import sync_playwright
+            with sync_playwright() as p:
+                browser = p.chromium.launch()
+                page = browser.new_page(user_agent=http.USER_AGENT)
+                page.goto(url, wait_until="networkidle", timeout=45000)
+                html = page.content()
+                browser.close()
+                return html
+        except Exception:
+            pass  # fall back to a plain request
+    return http.get(url).text
+
+
+def read(company: str, feed: str) -> list[RawJob]:
+    soup = BeautifulSoup(_page_html(feed), "lxml")
+    seen, jobs = set(), []
+    for a in soup.find_all("a", href=True):
+        text = re.sub(r"\s+", " ", a.get_text(" ", strip=True))
+        if not (8 <= len(text) <= 160) or not GRAD_TITLE_RE.search(text):
+            continue
+        url = urljoin(feed, a["href"])
+        if urlparse(url).scheme not in ("http", "https") or url in seen:
+            continue
+        seen.add(url)
+        jobs.append(RawJob(company=company, title=text, url=url, source="html"))
+        if len(jobs) >= MAX_LINKS:
+            break
+
+    for job in jobs:
+        if job.url.lower().endswith(".pdf"):
+            continue
+        try:
+            page = BeautifulSoup(http.get(job.url).text, "lxml")
+            main = page.select_one("main") or page.select_one("article") or page.body
+            job.description = html_to_text(str(main))[:20000] if main else ""
+            job.closing = find_closing_date(job.description)
+        except Exception:
+            pass
+    return jobs
