@@ -32,6 +32,9 @@ FIXES = {
     "PwC": {"platform": "html", "feed_url": "https://pwcza-graduate.erecruit.co/candidateapp/jobs/browse/",
             "notes": "fix: PwC South Africa graduate eRecruit portal"},
 
+    # SAP's career site refuses automated visitors (403), so leave it out rather than push past it
+    "SAP Africa": {"active": "no", "notes": "fix: career site blocks automated visitors"},
+
     "Unilever South Africa": {"platform": "html",
                               "feed_url": "https://careers.unilever.com/location/south-africa-jobs/34155/953987/2",
                               "notes": "fix: Unilever careers – South Africa jobs list"},

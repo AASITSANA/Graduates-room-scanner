@@ -271,3 +271,62 @@ def test_discover_main_applies_fixes(tmp_path=None):
     assert out["Liberty"]["active"] == "no"
     assert sorted(checked) == ["Clover", "Stanlib"]  # Absa is a good result, left alone
     assert out["Clover"]["platform"] == "" and out["Absa"]["platform"] == "workday"
+
+
+def test_update2_filters():
+    from scanner.filter import province_of, in_south_africa
+    assert province_of("Manchester, North Western Region, United Kingdom") == ""
+    assert province_of("Rustenburg, North West") == "North West"
+    uk = RawJob(company="DP", title="Graduate Analyst", url="u",
+                location="Manchester, North Western Region, United Kingdom")
+    assert not in_south_africa(uk, True) and not in_south_africa(uk, False)
+    # stale ad: posted 2023, no closing date
+    old = raw("Apprentice Electrical", loc="Caledon, South Africa")
+    old.posted = "2023-05-01"
+    assert classify(old, "x", True, TODAY) is None
+    fresh = raw("Apprentice Electrical", loc="Caledon, South Africa")
+    fresh.posted = "2026-11-01"
+    assert classify(fresh, "x", True, TODAY)
+
+
+def test_update2_html_reader_skips_menus_and_other_sites():
+    def get(url, **k):
+        if url == "https://www.compcom.co.za/career-path/":
+            return FakeResp(text=(
+                '<a href="/graduates">Graduates</a>'
+                '<a href="/internships">View internships</a>'
+                '<a href="http://demo.goodlayers.com/x">Internship programme 2027</a>'
+                '<a href="https://www.africanfarming.com/2026/x">https://www.africanfarming.com/graduates</a>'
+                '<a href="/careers/intern-2027">Legal Internship Programme 2027</a>'
+                '<a href="https://tinyurl.com/abc">SAHPRA Graduate Internship 2026/27</a>'))
+        return FakeResp(text="<main>Closing date: 30 January 2027</main>")
+    patch(get=get)
+    titles = [j.title for j in html_page.read("Competition Commission", "https://www.compcom.co.za/career-path/")]
+    assert titles == ["Legal Internship Programme 2027", "SAHPRA Graduate Internship 2026/27"]
+
+
+def test_update2_workday_big_portal_searches():
+    searches = []
+
+    def post(url, json=None, **k):
+        searches.append(json["searchText"])
+        if json["searchText"] == "":
+            return FakeResp({"total": 5000, "jobPostings": [{"title": "Senior Manager", "externalPath": "/job/a"}]})
+        if json["searchText"] == "graduate":
+            return FakeResp({"total": 1, "jobPostings": [{"title": "Graduate Programme 2027",
+                                                          "externalPath": "/job/g", "locationsText": "Sandton"}]})
+        return FakeResp({"total": 0, "jobPostings": []})
+    patch(get=lambda url, **k: FakeResp({"jobPostingInfo": {}}), post=post)
+    jobs = workday.read("Accenture", "https://accenture.wd103.myworkdayjobs.com/AccentureCareers")
+    assert [j.title for j in jobs] == ["Graduate Programme 2027"]
+    assert "graduate" in searches and searches.count("") == 1
+
+
+def test_update2_shared_workday_pacing():
+    import time as _t
+    from scanner import http as h
+    h._last_hit.clear()
+    start = _t.time()
+    h._wait_for_host("https://absa.wd3.myworkdayjobs.com/x")
+    h._wait_for_host("https://netcare.wd103.myworkdayjobs.com/y")
+    assert _t.time() - start >= 2.9  # two different companies, still paced as one Workday visitor
