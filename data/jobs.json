@@ -1,44 +1,7 @@
 {
- "updated_at": "2026-11-24T10:56:52+00:00",
- "count": 74,
+ "updated_at": "2026-11-25T04:29:00+00:00",
+ "count": 78,
  "jobs": [
-  {
-   "id": "0a04089d316c5a59",
-   "title": "Pharmacist Intern",
-   "company": "Mediclinic Southern Africa",
-   "sector": "Health & Pharma",
-   "location": "",
-   "province": "",
-   "job_type": "Internship",
-   "faculties": [
-    "Health"
-   ],
-   "closing_date": "2026-11-24",
-   "posted_date": null,
-   "url": "https://careers.mediclinic.com/SouthernAfrica/job/Mediclinic-Bloemfontein-Pharmacist-Intern-Bloe-Cnr-Kellne/1411096033/",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "122bb8d2fc5d82f0",
-   "title": "Foundation Programme Coordinator (Contract) Mr Price Group",
-   "company": "Mr Price Group",
-   "sector": "Retail",
-   "location": "Durban, Kwazulu Natal, South Africa",
-   "province": "KwaZulu-Natal",
-   "job_type": "Graduate programme",
-   "faculties": [
-    "Humanities",
-    "Commerce"
-   ],
-   "closing_date": "2026-11-24",
-   "posted_date": "2026-11-11",
-   "url": "https://fa-etyi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/5885",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "check"
-  },
   {
    "id": "f2fc9b8f99387889",
    "title": "Trainee Buyer",
@@ -54,8 +17,26 @@
    "posted_date": "2026-11-19",
    "url": "https://fa-etyi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/5611",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
+  },
+  {
+   "id": "29579dae7e8a93c7",
+   "title": "Branch Advisor FAIS",
+   "company": "FNB (FirstRand)",
+   "sector": "Banking & Finance",
+   "location": "South Africa",
+   "province": "",
+   "job_type": "Entry-level",
+   "faculties": [
+    "Commerce"
+   ],
+   "closing_date": "2026-11-26",
+   "posted_date": "2026-11-18",
+   "url": "https://firstrand.wd3.myworkdayjobs.com/FRB/job/Randfontein/Branch-Advisor-FAIS_R55324-1",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "confidence": "check"
   },
   {
    "id": "9f55f9a0fbcd8347",
@@ -73,7 +54,7 @@
    "posted_date": null,
    "url": "https://careers.mediclinic.com/SouthernAfrica/job/Mediclinic-Vereeniging-Phlebotomist-Sonh-Louise-Str/1432941633/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "check"
   },
   {
@@ -92,7 +73,7 @@
    "posted_date": null,
    "url": "https://careers.mediclinic.com/ER24/job/ER24-Corporate-Office-Specialised-Medical-Services-Assistant-Rivo-Witkoppen/1459296133/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "check"
   },
   {
@@ -112,7 +93,7 @@
    "posted_date": null,
    "url": "https://careers.mediclinic.com/SouthernAfrica/job/Mediclinic-Sandton-Trauma-Coordinator-Brya-Peter-Plac/1459639133/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "check"
   },
   {
@@ -130,8 +111,62 @@
    "posted_date": "2026-09-29",
    "url": "https://fa-etyi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/5576",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
+  },
+  {
+   "id": "ae5ea8c5a6ef6c98",
+   "title": "Branch Advisor FAIS",
+   "company": "FNB (FirstRand)",
+   "sector": "Banking & Finance",
+   "location": "South Africa",
+   "province": "",
+   "job_type": "Entry-level",
+   "faculties": [
+    "Commerce"
+   ],
+   "closing_date": "2026-11-30",
+   "posted_date": "2026-11-23",
+   "url": "https://firstrand.wd3.myworkdayjobs.com/FRB/job/Kimberley/Branch-Advisor-FAIS_R55495",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "confidence": "check"
+  },
+  {
+   "id": "946d893111d8cc51",
+   "title": "Branch External Sales and Service Advisor OBR",
+   "company": "FNB (FirstRand)",
+   "sector": "Banking & Finance",
+   "location": "South Africa",
+   "province": "",
+   "job_type": "Entry-level",
+   "faculties": [
+    "Commerce"
+   ],
+   "closing_date": "2026-11-30",
+   "posted_date": "2026-11-23",
+   "url": "https://firstrand.wd3.myworkdayjobs.com/FRB/job/Pretoria/Branch-External-Sales-and-Service-Advisor-OBR_R55012",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "confidence": "check"
+  },
+  {
+   "id": "b74cd4770ae0b6a3",
+   "title": "Sales Advisor Cape Town & Joburg) | Talent Pool",
+   "company": "FNB (FirstRand)",
+   "sector": "Banking & Finance",
+   "location": "South Africa",
+   "province": "",
+   "job_type": "Entry-level",
+   "faculties": [
+    "Commerce"
+   ],
+   "closing_date": "2026-11-30",
+   "posted_date": "2026-11-03",
+   "url": "https://firstrand.wd3.myworkdayjobs.com/FRB/job/Randburg/Sales-Advisor-Cape-Town---Joburg----Talent-Pool_R54954",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "confidence": "check"
   },
   {
    "id": "787795cbe0d2f837",
@@ -148,7 +183,43 @@
    "posted_date": null,
    "url": "https://careers.mediclinic.com/SouthernAfrica/job/Mediclinic-Constantiaberg-Phlebotomist-Plum-Burnham-Ro/1459144833/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
+   "confidence": "check"
+  },
+  {
+   "id": "d1c39c00efedf6cd",
+   "title": "Branch Advisor FAIS",
+   "company": "FNB (FirstRand)",
+   "sector": "Banking & Finance",
+   "location": "South Africa",
+   "province": "",
+   "job_type": "Entry-level",
+   "faculties": [
+    "Commerce"
+   ],
+   "closing_date": "2026-12-01",
+   "posted_date": "2026-11-24",
+   "url": "https://firstrand.wd3.myworkdayjobs.com/FRB/job/Port-Shepstone/Branch-Advisor-FAIS_R55481",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "confidence": "check"
+  },
+  {
+   "id": "0b7653ada509aedd",
+   "title": "Branch External Sales and Service Advisor OBR",
+   "company": "FNB (FirstRand)",
+   "sector": "Banking & Finance",
+   "location": "South Africa",
+   "province": "",
+   "job_type": "Entry-level",
+   "faculties": [
+    "Commerce"
+   ],
+   "closing_date": "2026-12-02",
+   "posted_date": "2026-11-24",
+   "url": "https://firstrand.wd3.myworkdayjobs.com/FRB/job/Dundee/Branch-External-Sales-and-Service-Advisor-OBR_R55534",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
    "confidence": "check"
   },
   {
@@ -166,7 +237,7 @@
    "posted_date": "2026-11-20",
    "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28420",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "check"
   },
   {
@@ -184,7 +255,7 @@
    "posted_date": "2026-11-24",
    "url": "https://fa-etyi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/5931",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -203,7 +274,7 @@
    "posted_date": "2026-11-12",
    "url": "https://jobs.aeciworld.com/job/Modderfontein-Rail-Controller-GP-1609/1377356657/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "check"
   },
   {
@@ -222,7 +293,7 @@
    "posted_date": "2026-11-11",
    "url": "https://jobs.aeciworld.com/job/Umbogintwini-Graduate-Trainee-KwaZ-4126/1377262957/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -240,7 +311,7 @@
    "posted_date": "2026-11-11",
    "url": "https://jobs.aeciworld.com/job/Umbogintwini-Graduate-Trainee-Electrical-KwaZ-4126/1377264357/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -260,7 +331,7 @@
    "posted_date": "2026-11-18",
    "url": "https://jobs.aeciworld.com/job/Umbogintwini-Apprentice-Mechanic-Fitter-KwaZ-4126/1377851657/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -279,7 +350,7 @@
    "posted_date": null,
    "url": "https://www.adaptit.com/careers#Learnerships",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -297,7 +368,7 @@
    "posted_date": null,
    "url": "https://www.arm.co.za/pdf/careers/limpopo/two-rivers/junior-technician-it.pdf",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -315,7 +386,7 @@
    "posted_date": null,
    "url": "https://www.arm.co.za/pdf/careers/northern-cape/black-rock-mine/junior-geologist.pdf",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -333,7 +404,7 @@
    "posted_date": null,
    "url": "https://armscor.co.za/internship/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -351,7 +422,7 @@
    "posted_date": null,
    "url": "https://armscor.co.za/wp-content/uploads/2026/01/TDP-Advert-2026.pdf",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -370,7 +441,7 @@
    "posted_date": null,
    "url": "https://www.agsa.co.za/careers/graduate-recruitment",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -390,7 +461,7 @@
    "posted_date": null,
    "url": "https://bbdsoftware.com/grad-programme/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -409,7 +480,7 @@
    "posted_date": null,
    "url": "https://bowmanslaw.com/graduate-recruitment/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -449,7 +520,7 @@
    "posted_date": null,
    "url": "https://www.csir.co.za/careers/students-graduates",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -469,46 +540,25 @@
    "posted_date": null,
    "url": "https://www.csir.co.za/careers/students-graduates/internships",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
-   "id": "20c3140558a304f5",
-   "title": "Agent: Collections",
-   "company": "Capitec Bank",
-   "sector": "Banking & Finance",
-   "location": "Century City, WC, ZA",
-   "province": "Western Cape",
-   "job_type": "Entry-level",
-   "faculties": [
-    "Commerce",
-    "IT",
-    "Humanities"
-   ],
-   "closing_date": null,
-   "posted_date": "2026-11-14",
-   "url": "https://careers.capitecbank.co.za/job/Century-City-Agent-Collections-WC/1423063733/",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "check"
-  },
-  {
-   "id": "1b35c1c72756cd5d",
-   "title": "About the internship",
+   "id": "1f20265450a35fd2",
+   "title": "What is the Graduate Development Programme for Engineers?",
    "company": "City of Cape Town",
    "sector": "Municipality",
    "location": "",
    "province": "",
-   "job_type": "Internship",
+   "job_type": "Graduate programme",
    "faculties": [
-    "Humanities",
-    "Built Environment"
+    "Engineering"
    ],
    "closing_date": null,
    "posted_date": null,
-   "url": "https://www.capetown.gov.za/city-connect/apply/jobs-and-opportunities/apply-for-the-urban-sustainability-internship-programme/#Heading0",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "url": "https://www.capetown.gov.za/city-connect/apply/jobs-and-opportunities/graduate-development-programme-for-engineers/#Heading0",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -527,7 +577,7 @@
    "posted_date": null,
    "url": "https://www.cliffedekkerhofmeyr.com/en/young-minds/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -546,7 +596,7 @@
    "posted_date": "2026-11-19",
    "url": "https://jobs.smartrecruiters.com/Deloitte6/744000162476969",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -565,7 +615,7 @@
    "posted_date": null,
    "url": "https://www.thedtic.gov.za/sectors-and-services-2/1-4-2-trade-and-export/export-development-and-promotion/national-exporter-development-programme-nedp/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -583,26 +633,8 @@
    "posted_date": "2026-11-09",
    "url": "https://careers.discovery.co.za/job/Sandton-1-Discovery-Place-JHB-Insure-Telesales-Consultant-1DP-Sandton-%28Talent-Pool%29-GP-2196/1455511033/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "check"
-  },
-  {
-   "id": "fb89a18a78204039",
-   "title": "Java Developer (Junior)",
-   "company": "Discovery",
-   "sector": "Insurance & Investment",
-   "location": "Sandton - 1 Discovery Place, GP, ZA, 2196",
-   "province": "Gauteng",
-   "job_type": "Entry-level",
-   "faculties": [
-    "IT"
-   ],
-   "closing_date": null,
-   "posted_date": "2026-11-23",
-   "url": "https://careers.discovery.co.za/job/Sandton-1-Discovery-Place-Java-Developer-%28Junior%29-GP-2196/1459728733/",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
   },
   {
    "id": "8095351ff0f02488",
@@ -619,7 +651,25 @@
    "posted_date": "2026-11-10",
    "url": "https://careers.discovery.co.za/job/Sandton-1-Discovery-Place-Discovery-Connect-Learnership-Wealth-Management-JHB-Sandton-GP-2196/1455855633/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
+   "confidence": "high"
+  },
+  {
+   "id": "fb89a18a78204039",
+   "title": "Java Developer (Junior)",
+   "company": "Discovery",
+   "sector": "Insurance & Investment",
+   "location": "Sandton - 1 Discovery Place, GP, ZA, 2196",
+   "province": "Gauteng",
+   "job_type": "Entry-level",
+   "faculties": [
+    "IT"
+   ],
+   "closing_date": null,
+   "posted_date": "2026-11-23",
+   "url": "https://careers.discovery.co.za/job/Sandton-1-Discovery-Place-Java-Developer-%28Junior%29-GP-2196/1459728733/",
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -639,7 +689,7 @@
    "posted_date": "2026-11-12",
    "url": "https://careers.discovery.co.za/job/Sandton-1-Discovery-Place-Talent-Pool-Junior-Data-Scientist-GP-2196/1109525301/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -657,7 +707,7 @@
    "posted_date": "2026-11-19",
    "url": "https://careers.discovery.co.za/job/Durban-41-Imvubupark-Place-Internship-TVET-HR-Administrator-KwaZ-4019/1446104333/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -676,25 +726,7 @@
    "posted_date": null,
    "url": "https://culture.entelect.com/graduates",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "97fea64c2b4816b4",
-   "title": "Early careers",
-   "company": "Glencore",
-   "sector": "Mining & Resources",
-   "location": "",
-   "province": "",
-   "job_type": "Graduate programme",
-   "faculties": [
-    "Commerce"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "https://www.glencore.com/en/careers/early-careers",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -714,7 +746,7 @@
    "posted_date": null,
    "url": "https://hsrc.ac.za/hsrc-internship-programme/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -733,7 +765,7 @@
    "posted_date": "2026-10-27",
    "url": "https://jobs.hatch.com/job/Johannesburg-EOI-Graduate-Programme-2026-%28Chemical-Engineer%29-1-Gaut/1434223900/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -752,7 +784,7 @@
    "posted_date": "2026-10-27",
    "url": "https://jobs.hatch.com/job/Johannesburg-EOI-Graduate-Programme-2026-%28Chemical-Engineer%29-Gaut/1434224100/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -770,7 +802,7 @@
    "posted_date": "2026-11-05",
    "url": "https://jobs.hatch.com/job/Johannesburg-Graduate-Programme-2026-%28Mechanical-Engineering%29-Gaut/1383025600/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -788,7 +820,7 @@
    "posted_date": "2026-11-02",
    "url": "https://jobs.hatch.com/job/Johannesburg-Graduate-Programme-2026-%28Port-&-Coastal-Engineer%29-Gaut/1446692500/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -806,7 +838,7 @@
    "posted_date": "2026-11-12",
    "url": "https://jobs.hatch.com/job/Johannesburg-Transmission-Line-Engineer-Gaut/1450103800/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "check"
   },
   {
@@ -824,7 +856,7 @@
    "posted_date": "2026-11-05",
    "url": "https://jobs.hatch.com/job/Johannesburg-Graduate-Programme-2026-%28Electrical-Engineering%29-Gaut/1383024700/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -843,7 +875,7 @@
    "posted_date": null,
    "url": "https://www.idc.co.za/supplier-development-programme/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -861,7 +893,7 @@
    "posted_date": null,
    "url": "https://kpmg.com/za/en/careers/graduate-opportunities.html",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -879,7 +911,7 @@
    "posted_date": null,
    "url": "https://mict.org.za/internships/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -897,25 +929,7 @@
    "posted_date": null,
    "url": "https://mict.org.za/work-integrated-learning-wil/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "d8225269919df15d",
-   "title": "Internship",
-   "company": "Mintek",
-   "sector": "Development Finance & Research",
-   "location": "",
-   "province": "",
-   "job_type": "Internship",
-   "faculties": [
-    "All faculties"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "https://mintek.co.za/careers/careers/internship.html",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -933,7 +947,7 @@
    "posted_date": "2026-11-12",
    "url": "https://fa-etyi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/5889",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "check"
   },
   {
@@ -952,7 +966,7 @@
    "posted_date": "2026-10-13",
    "url": "https://fa-etyi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/5698",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -972,7 +986,7 @@
    "posted_date": "2026-07-22",
    "url": "https://fa-etyi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/5070",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -990,8 +1004,27 @@
    "posted_date": "2024-07-23",
    "url": "https://fa-etyi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1306",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "check"
+  },
+  {
+   "id": "5e2a4bca9b23efec",
+   "title": "GRADUATE DEVELOPMENT PROGRAMME",
+   "company": "Parliament of South Africa",
+   "sector": "Government",
+   "location": "",
+   "province": "",
+   "job_type": "Graduate programme",
+   "faculties": [
+    "Humanities",
+    "Commerce"
+   ],
+   "closing_date": null,
+   "posted_date": null,
+   "url": "https://www.parliament.gov.za/careers-parliament#graduate",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "confidence": "high"
   },
   {
    "id": "536a4510e1757c76",
@@ -1008,7 +1041,7 @@
    "posted_date": null,
    "url": "https://www.pepsicojobs.com/internshipsprograms",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -1026,7 +1059,7 @@
    "posted_date": null,
    "url": "https://www.pic.gov.za/youthdevprog",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -1044,11 +1077,11 @@
    "posted_date": null,
    "url": "https://www.pic.gov.za/graduate",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
-   "id": "9e2c66cac4f214ba",
+   "id": "609d292f2db0478e",
    "title": "2027 Graduate Development Programme Reopens - Opportunity for Additional Graduates",
    "company": "Public Investment Corporation (PIC)",
    "sector": "Banking & Finance",
@@ -1060,9 +1093,9 @@
    ],
    "closing_date": null,
    "posted_date": null,
-   "url": "https://www.pic.gov.za/documents/publications/360/d6ce2809b14340ff8a33d6a88910e115.pdf?skoid=40adc226-5a3c-4239-8285-b3a7262de2ed&sktid=06fdb25e-a78c-4818-a304-562007fd761b&skt=2026-11-24T10%3A56%3A59Z&ske=2026-11-24T13%3A26%3A59Z&sks=b&skv=2025-11-05&sv=2025-11-05&st=2026-11-24T10%3A51%3A59Z&se=2026-11-24T13%3A26%3A59Z&sr=b&sp=r&sig=zkPcWoJTFV5nwcs7hZzNmXY2a78isrZYMjwBtNOc%2BGk%3D",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "url": "https://www.pic.gov.za/documents/publications/360/d6ce2809b14340ff8a33d6a88910e115.pdf?skoid=40adc226-5a3c-4239-8285-b3a7262de2ed&sktid=06fdb25e-a78c-4818-a304-562007fd761b&skt=2026-11-25T04%3A29%3A07Z&ske=2026-11-25T06%3A59%3A07Z&sks=b&skv=2025-11-05&sv=2025-11-05&st=2026-11-25T04%3A24%3A07Z&se=2026-11-25T06%3A59%3A07Z&sr=b&sp=r&sig=nALavJsfd%2B6KVeUV8WZnFJMKjzW7qHaPo4vqMm3SZXQ%3D",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -1082,7 +1115,7 @@
    "posted_date": null,
    "url": "https://pwcza-graduate.erecruit.co/candidateapp/Jobs/Categories/Assurance_Graduate_Programmes/fa07e28b035f44e5827723d15d3aa799",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -1102,7 +1135,7 @@
    "posted_date": null,
    "url": "https://pwcza-graduate.erecruit.co/candidateapp/Jobs/Categories/Deals_Graduate_Programmes/53ca4bf34aad463399569ef5d43b604f",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -1122,7 +1155,7 @@
    "posted_date": null,
    "url": "https://pwcza-graduate.erecruit.co/candidateapp/Jobs/Categories/Internal_Firm_Services_(IFS)_Graduate_Programmes/2e57a45d8be64b4e87491ef9c29e368f",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -1142,7 +1175,27 @@
    "posted_date": null,
    "url": "https://pwcza-graduate.erecruit.co/candidateapp/Jobs/Categories/Tax_Graduate_Programmes/c0e90073ccc84bdbba5cfd6481a9c378",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
+   "confidence": "high"
+  },
+  {
+   "id": "fea30de1a8a88213",
+   "title": "Internships",
+   "company": "Sibanye-Stillwater",
+   "sector": "Mining & Resources",
+   "location": "",
+   "province": "",
+   "job_type": "Internship",
+   "faculties": [
+    "Health",
+    "Commerce",
+    "Engineering"
+   ],
+   "closing_date": null,
+   "posted_date": null,
+   "url": "https://www.sibanyestillwater.com/careers/south-africa/",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -1160,7 +1213,7 @@
    "posted_date": null,
    "url": "https://www.flysaa.com/about-us/leading-carrier/careers/youth-development",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -1180,7 +1233,7 @@
    "posted_date": "2026-08-19",
    "url": "https://fa-evra-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SARB/job/1811",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -1198,8 +1251,28 @@
    "posted_date": "2026-09-27",
    "url": "https://job-boards.greenhouse.io/takealotcom/jobs/8210795",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "check"
+  },
+  {
+   "id": "941c5be88636e1ab",
+   "title": "Graduate: Process Engineering",
+   "company": "Takealot Group",
+   "sector": "Technology",
+   "location": "Cape Town",
+   "province": "Western Cape",
+   "job_type": "Graduate programme",
+   "faculties": [
+    "Commerce",
+    "Engineering",
+    "IT"
+   ],
+   "closing_date": null,
+   "posted_date": "2026-11-24",
+   "url": "https://job-boards.greenhouse.io/takealotcom/jobs/8411150",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "confidence": "high"
   },
   {
    "id": "b85d4fe9ccc5b6d7",
@@ -1217,7 +1290,7 @@
    "posted_date": "2026-08-24",
    "url": "https://job-boards.greenhouse.io/takealotcom/jobs/8143560",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -1235,7 +1308,7 @@
    "posted_date": "2026-08-27",
    "url": "https://job-boards.greenhouse.io/takealotcom/jobs/8161195",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -1253,7 +1326,7 @@
    "posted_date": "2023-11-24",
    "url": "https://wd1.myworkdaysite.com/recruiting/abinbev/SAB/job/VOPS-Caledon/Apprentice-Electrical_30054466",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -1272,7 +1345,7 @@
    "posted_date": "2023-03-16",
    "url": "https://wd1.myworkdaysite.com/recruiting/abinbev/SAB/job/Newlands-Brewery/RAW-MATERIALS-CONTROLLER_30040016",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "check"
   },
   {
@@ -1292,7 +1365,7 @@
    "posted_date": null,
    "url": "https://www.transnet.net/YouthDevelopmentProgrammes",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -1312,7 +1385,7 @@
    "posted_date": null,
    "url": "https://www.wbho.co.za/careers-and-students/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -1330,7 +1403,7 @@
    "posted_date": null,
    "url": "https://www.webberwentzel.com/careers#early",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -1348,7 +1421,7 @@
    "posted_date": null,
    "url": "https://werksmans.com/graduates/candidate-attorney-programme/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -1366,7 +1439,7 @@
    "posted_date": null,
    "url": "https://www.merseta.org.za/wp-content/uploads/2022/07/merSETA-Intern-Application-Form_.pdf",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
@@ -1384,7 +1457,7 @@
    "posted_date": null,
    "url": "http://roi.merseta.org.za/",
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   }
  ]

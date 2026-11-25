@@ -1,84 +1,154 @@
 {
- "date": "2026-11-24",
- "count": 13,
+ "date": "2026-11-25",
+ "count": 11,
  "jobs": [
   {
-   "id": "20c3140558a304f5",
-   "title": "Agent: Collections",
-   "company": "Capitec Bank",
-   "sector": "Banking & Finance",
-   "location": "Century City, WC, ZA",
-   "province": "Western Cape",
-   "job_type": "Entry-level",
-   "faculties": [
-    "Commerce",
-    "IT",
-    "Humanities"
-   ],
-   "closing_date": null,
-   "posted_date": "2026-11-14",
-   "url": "https://careers.capitecbank.co.za/job/Century-City-Agent-Collections-WC/1423063733/",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "check"
-  },
-  {
-   "id": "1b35c1c72756cd5d",
-   "title": "About the internship",
+   "id": "1f20265450a35fd2",
+   "title": "What is the Graduate Development Programme for Engineers?",
    "company": "City of Cape Town",
    "sector": "Municipality",
    "location": "",
    "province": "",
-   "job_type": "Internship",
+   "job_type": "Graduate programme",
    "faculties": [
-    "Humanities",
-    "Built Environment"
+    "Engineering"
    ],
    "closing_date": null,
    "posted_date": null,
-   "url": "https://www.capetown.gov.za/city-connect/apply/jobs-and-opportunities/apply-for-the-urban-sustainability-internship-programme/#Heading0",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "url": "https://www.capetown.gov.za/city-connect/apply/jobs-and-opportunities/graduate-development-programme-for-engineers/#Heading0",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
-   "id": "c01c201a3913c499",
-   "title": "Internship: TVET HR Administrator",
-   "company": "Discovery",
-   "sector": "Insurance & Investment",
-   "location": "Durban - 41 Imvubupark Place, KwaZulu-Natal, ZA, 4019",
-   "province": "KwaZulu-Natal",
-   "job_type": "Internship",
-   "faculties": [
-    "Commerce"
-   ],
-   "closing_date": null,
-   "posted_date": "2026-11-19",
-   "url": "https://careers.discovery.co.za/job/Durban-41-Imvubupark-Place-Internship-TVET-HR-Administrator-KwaZ-4019/1446104333/",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "6a8bc562ddafa288",
-   "title": "Junior Buyer Miladys",
-   "company": "Mr Price Group",
-   "sector": "Retail",
-   "location": "Durban, Kwazulu Natal, South Africa",
-   "province": "KwaZulu-Natal",
+   "id": "0b7653ada509aedd",
+   "title": "Branch External Sales and Service Advisor OBR",
+   "company": "FNB (FirstRand)",
+   "sector": "Banking & Finance",
+   "location": "South Africa",
+   "province": "",
    "job_type": "Entry-level",
    "faculties": [
     "Commerce"
    ],
-   "closing_date": "2026-12-10",
+   "closing_date": "2026-12-02",
    "posted_date": "2026-11-24",
-   "url": "https://fa-etyi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/5931",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "url": "https://firstrand.wd3.myworkdayjobs.com/FRB/job/Dundee/Branch-External-Sales-and-Service-Advisor-OBR_R55534",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "confidence": "check"
+  },
+  {
+   "id": "d1c39c00efedf6cd",
+   "title": "Branch Advisor FAIS",
+   "company": "FNB (FirstRand)",
+   "sector": "Banking & Finance",
+   "location": "South Africa",
+   "province": "",
+   "job_type": "Entry-level",
+   "faculties": [
+    "Commerce"
+   ],
+   "closing_date": "2026-12-01",
+   "posted_date": "2026-11-24",
+   "url": "https://firstrand.wd3.myworkdayjobs.com/FRB/job/Port-Shepstone/Branch-Advisor-FAIS_R55481",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "confidence": "check"
+  },
+  {
+   "id": "ae5ea8c5a6ef6c98",
+   "title": "Branch Advisor FAIS",
+   "company": "FNB (FirstRand)",
+   "sector": "Banking & Finance",
+   "location": "South Africa",
+   "province": "",
+   "job_type": "Entry-level",
+   "faculties": [
+    "Commerce"
+   ],
+   "closing_date": "2026-11-30",
+   "posted_date": "2026-11-23",
+   "url": "https://firstrand.wd3.myworkdayjobs.com/FRB/job/Kimberley/Branch-Advisor-FAIS_R55495",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "confidence": "check"
+  },
+  {
+   "id": "946d893111d8cc51",
+   "title": "Branch External Sales and Service Advisor OBR",
+   "company": "FNB (FirstRand)",
+   "sector": "Banking & Finance",
+   "location": "South Africa",
+   "province": "",
+   "job_type": "Entry-level",
+   "faculties": [
+    "Commerce"
+   ],
+   "closing_date": "2026-11-30",
+   "posted_date": "2026-11-23",
+   "url": "https://firstrand.wd3.myworkdayjobs.com/FRB/job/Pretoria/Branch-External-Sales-and-Service-Advisor-OBR_R55012",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "confidence": "check"
+  },
+  {
+   "id": "29579dae7e8a93c7",
+   "title": "Branch Advisor FAIS",
+   "company": "FNB (FirstRand)",
+   "sector": "Banking & Finance",
+   "location": "South Africa",
+   "province": "",
+   "job_type": "Entry-level",
+   "faculties": [
+    "Commerce"
+   ],
+   "closing_date": "2026-11-26",
+   "posted_date": "2026-11-18",
+   "url": "https://firstrand.wd3.myworkdayjobs.com/FRB/job/Randfontein/Branch-Advisor-FAIS_R55324-1",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "confidence": "check"
+  },
+  {
+   "id": "b74cd4770ae0b6a3",
+   "title": "Sales Advisor Cape Town & Joburg) | Talent Pool",
+   "company": "FNB (FirstRand)",
+   "sector": "Banking & Finance",
+   "location": "South Africa",
+   "province": "",
+   "job_type": "Entry-level",
+   "faculties": [
+    "Commerce"
+   ],
+   "closing_date": "2026-11-30",
+   "posted_date": "2026-11-03",
+   "url": "https://firstrand.wd3.myworkdayjobs.com/FRB/job/Randburg/Sales-Advisor-Cape-Town---Joburg----Talent-Pool_R54954",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
+   "confidence": "check"
+  },
+  {
+   "id": "5e2a4bca9b23efec",
+   "title": "GRADUATE DEVELOPMENT PROGRAMME",
+   "company": "Parliament of South Africa",
+   "sector": "Government",
+   "location": "",
+   "province": "",
+   "job_type": "Graduate programme",
+   "faculties": [
+    "Humanities",
+    "Commerce"
+   ],
+   "closing_date": null,
+   "posted_date": null,
+   "url": "https://www.parliament.gov.za/careers-parliament#graduate",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
-   "id": "9e2c66cac4f214ba",
+   "id": "609d292f2db0478e",
    "title": "2027 Graduate Development Programme Reopens - Opportunity for Additional Graduates",
    "company": "Public Investment Corporation (PIC)",
    "sector": "Banking & Finance",
@@ -90,163 +160,49 @@
    ],
    "closing_date": null,
    "posted_date": null,
-   "url": "https://www.pic.gov.za/documents/publications/360/d6ce2809b14340ff8a33d6a88910e115.pdf?skoid=40adc226-5a3c-4239-8285-b3a7262de2ed&sktid=06fdb25e-a78c-4818-a304-562007fd761b&skt=2026-11-24T10%3A56%3A59Z&ske=2026-11-24T13%3A26%3A59Z&sks=b&skv=2025-11-05&sv=2025-11-05&st=2026-11-24T10%3A51%3A59Z&se=2026-11-24T13%3A26%3A59Z&sr=b&sp=r&sig=zkPcWoJTFV5nwcs7hZzNmXY2a78isrZYMjwBtNOc%2BGk%3D",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "url": "https://www.pic.gov.za/documents/publications/360/d6ce2809b14340ff8a33d6a88910e115.pdf?skoid=40adc226-5a3c-4239-8285-b3a7262de2ed&sktid=06fdb25e-a78c-4818-a304-562007fd761b&skt=2026-11-25T04%3A29%3A07Z&ske=2026-11-25T06%3A59%3A07Z&sks=b&skv=2025-11-05&sv=2025-11-05&st=2026-11-25T04%3A24%3A07Z&se=2026-11-25T06%3A59%3A07Z&sr=b&sp=r&sig=nALavJsfd%2B6KVeUV8WZnFJMKjzW7qHaPo4vqMm3SZXQ%3D",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
-   "id": "4e8367dde5320291",
-   "title": "Assurance Graduate Programmes (6)",
-   "company": "PwC",
-   "sector": "Accounting & Audit",
-   "location": "",
-   "province": "",
-   "job_type": "Graduate programme",
-   "faculties": [
-    "Commerce",
-    "IT",
-    "Law"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "https://pwcza-graduate.erecruit.co/candidateapp/Jobs/Categories/Assurance_Graduate_Programmes/fa07e28b035f44e5827723d15d3aa799",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "478fe15917c7bc31",
-   "title": "Deals Graduate Programmes (0)",
-   "company": "PwC",
-   "sector": "Accounting & Audit",
-   "location": "",
-   "province": "",
-   "job_type": "Graduate programme",
-   "faculties": [
-    "Commerce",
-    "IT",
-    "Law"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "https://pwcza-graduate.erecruit.co/candidateapp/Jobs/Categories/Deals_Graduate_Programmes/53ca4bf34aad463399569ef5d43b604f",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "727471507d25e1a8",
-   "title": "Internal Firm Services (IFS) Graduate Programmes (0)",
-   "company": "PwC",
-   "sector": "Accounting & Audit",
+   "id": "fea30de1a8a88213",
+   "title": "Internships",
+   "company": "Sibanye-Stillwater",
+   "sector": "Mining & Resources",
    "location": "",
    "province": "",
    "job_type": "Internship",
    "faculties": [
+    "Health",
     "Commerce",
-    "IT",
-    "Law"
+    "Engineering"
    ],
    "closing_date": null,
    "posted_date": null,
-   "url": "https://pwcza-graduate.erecruit.co/candidateapp/Jobs/Categories/Internal_Firm_Services_(IFS)_Graduate_Programmes/2e57a45d8be64b4e87491ef9c29e368f",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "url": "https://www.sibanyestillwater.com/careers/south-africa/",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   },
   {
-   "id": "04d2dde63c030961",
-   "title": "Tax Graduate Programmes (0)",
-   "company": "PwC",
-   "sector": "Accounting & Audit",
-   "location": "",
-   "province": "",
+   "id": "941c5be88636e1ab",
+   "title": "Graduate: Process Engineering",
+   "company": "Takealot Group",
+   "sector": "Technology",
+   "location": "Cape Town",
+   "province": "Western Cape",
    "job_type": "Graduate programme",
    "faculties": [
     "Commerce",
-    "IT",
-    "Law"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "https://pwcza-graduate.erecruit.co/candidateapp/Jobs/Categories/Tax_Graduate_Programmes/c0e90073ccc84bdbba5cfd6481a9c378",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "fa81e238671223ed",
-   "title": "Graduate Programme Collapsed Content",
-   "company": "South African Airways (SAA)",
-   "sector": "Transport & Logistics",
-   "location": "",
-   "province": "",
-   "job_type": "Graduate programme",
-   "faculties": [
-    "Commerce"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "https://www.flysaa.com/about-us/leading-carrier/careers/youth-development",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "311397601ff3ae99",
-   "title": "Youth Development Programmes",
-   "company": "Transnet",
-   "sector": "Transport & Logistics",
-   "location": "",
-   "province": "",
-   "job_type": "Graduate programme",
-   "faculties": [
     "Engineering",
-    "Commerce",
     "IT"
    ],
    "closing_date": null,
-   "posted_date": null,
-   "url": "https://www.transnet.net/YouthDevelopmentProgrammes",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "7c959a1d237db2bd",
-   "title": "merSETA Intern Application Form",
-   "company": "merSETA",
-   "sector": "SETA",
-   "location": "",
-   "province": "",
-   "job_type": "Internship",
-   "faculties": [
-    "All faculties"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "https://www.merseta.org.za/wp-content/uploads/2022/07/merSETA-Intern-Application-Form_.pdf",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
-   "confidence": "high"
-  },
-  {
-   "id": "f40fd8eb47b98471",
-   "title": "Return on Investment tool Check how apprenticeships generate profit.",
-   "company": "merSETA",
-   "sector": "SETA",
-   "location": "",
-   "province": "",
-   "job_type": "Trainee",
-   "faculties": [
-    "Commerce"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "http://roi.merseta.org.za/",
-   "first_seen": "2026-11-24",
-   "last_seen": "2026-11-24",
+   "posted_date": "2026-11-24",
+   "url": "https://job-boards.greenhouse.io/takealotcom/jobs/8411150",
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25",
    "confidence": "high"
   }
  ]
