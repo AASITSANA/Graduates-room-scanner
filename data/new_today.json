@@ -1,154 +1,190 @@
 {
- "date": "2026-11-25",
- "count": 11,
+ "date": "2026-11-26",
+ "count": 15,
  "jobs": [
   {
-   "id": "1f20265450a35fd2",
-   "title": "What is the Graduate Development Programme for Engineers?",
-   "company": "City of Cape Town",
-   "sector": "Municipality",
-   "location": "",
-   "province": "",
-   "job_type": "Graduate programme",
-   "faculties": [
-    "Engineering"
-   ],
-   "closing_date": null,
-   "posted_date": null,
-   "url": "https://www.capetown.gov.za/city-connect/apply/jobs-and-opportunities/graduate-development-programme-for-engineers/#Heading0",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
-   "confidence": "high"
-  },
-  {
-   "id": "0b7653ada509aedd",
-   "title": "Branch External Sales and Service Advisor OBR",
-   "company": "FNB (FirstRand)",
-   "sector": "Banking & Finance",
-   "location": "South Africa",
-   "province": "",
+   "id": "c0aed67a37367bcd",
+   "title": "Developer (Junior)",
+   "company": "Discovery",
+   "sector": "Insurance & Investment",
+   "location": "Sandton - 1 Discovery Place, GP, ZA, 2196",
+   "province": "Gauteng",
    "job_type": "Entry-level",
    "faculties": [
-    "Commerce"
-   ],
-   "closing_date": "2026-12-02",
-   "posted_date": "2026-11-24",
-   "url": "https://firstrand.wd3.myworkdayjobs.com/FRB/job/Dundee/Branch-External-Sales-and-Service-Advisor-OBR_R55534",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
-   "confidence": "check"
-  },
-  {
-   "id": "d1c39c00efedf6cd",
-   "title": "Branch Advisor FAIS",
-   "company": "FNB (FirstRand)",
-   "sector": "Banking & Finance",
-   "location": "South Africa",
-   "province": "",
-   "job_type": "Entry-level",
-   "faculties": [
-    "Commerce"
-   ],
-   "closing_date": "2026-12-01",
-   "posted_date": "2026-11-24",
-   "url": "https://firstrand.wd3.myworkdayjobs.com/FRB/job/Port-Shepstone/Branch-Advisor-FAIS_R55481",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
-   "confidence": "check"
-  },
-  {
-   "id": "ae5ea8c5a6ef6c98",
-   "title": "Branch Advisor FAIS",
-   "company": "FNB (FirstRand)",
-   "sector": "Banking & Finance",
-   "location": "South Africa",
-   "province": "",
-   "job_type": "Entry-level",
-   "faculties": [
-    "Commerce"
-   ],
-   "closing_date": "2026-11-30",
-   "posted_date": "2026-11-23",
-   "url": "https://firstrand.wd3.myworkdayjobs.com/FRB/job/Kimberley/Branch-Advisor-FAIS_R55495",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
-   "confidence": "check"
-  },
-  {
-   "id": "946d893111d8cc51",
-   "title": "Branch External Sales and Service Advisor OBR",
-   "company": "FNB (FirstRand)",
-   "sector": "Banking & Finance",
-   "location": "South Africa",
-   "province": "",
-   "job_type": "Entry-level",
-   "faculties": [
-    "Commerce"
-   ],
-   "closing_date": "2026-11-30",
-   "posted_date": "2026-11-23",
-   "url": "https://firstrand.wd3.myworkdayjobs.com/FRB/job/Pretoria/Branch-External-Sales-and-Service-Advisor-OBR_R55012",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
-   "confidence": "check"
-  },
-  {
-   "id": "29579dae7e8a93c7",
-   "title": "Branch Advisor FAIS",
-   "company": "FNB (FirstRand)",
-   "sector": "Banking & Finance",
-   "location": "South Africa",
-   "province": "",
-   "job_type": "Entry-level",
-   "faculties": [
-    "Commerce"
-   ],
-   "closing_date": "2026-11-26",
-   "posted_date": "2026-11-18",
-   "url": "https://firstrand.wd3.myworkdayjobs.com/FRB/job/Randfontein/Branch-Advisor-FAIS_R55324-1",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
-   "confidence": "check"
-  },
-  {
-   "id": "b74cd4770ae0b6a3",
-   "title": "Sales Advisor Cape Town & Joburg) | Talent Pool",
-   "company": "FNB (FirstRand)",
-   "sector": "Banking & Finance",
-   "location": "South Africa",
-   "province": "",
-   "job_type": "Entry-level",
-   "faculties": [
-    "Commerce"
-   ],
-   "closing_date": "2026-11-30",
-   "posted_date": "2026-11-03",
-   "url": "https://firstrand.wd3.myworkdayjobs.com/FRB/job/Randburg/Sales-Advisor-Cape-Town---Joburg----Talent-Pool_R54954",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
-   "confidence": "check"
-  },
-  {
-   "id": "5e2a4bca9b23efec",
-   "title": "GRADUATE DEVELOPMENT PROGRAMME",
-   "company": "Parliament of South Africa",
-   "sector": "Government",
-   "location": "",
-   "province": "",
-   "job_type": "Graduate programme",
-   "faculties": [
-    "Humanities",
+    "IT",
     "Commerce"
    ],
    "closing_date": null,
-   "posted_date": null,
-   "url": "https://www.parliament.gov.za/careers-parliament#graduate",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "posted_date": "2026-11-25",
+   "url": "https://careers.discovery.co.za/job/Sandton-1-Discovery-Place-Developer-%28Junior%29-GP-2196/1460511633/",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
    "confidence": "high"
   },
   {
-   "id": "609d292f2db0478e",
+   "id": "a99b7b5d4c922d26",
+   "title": "Pharmacist Intern",
+   "company": "Netcare",
+   "sector": "Health & Pharma",
+   "location": "Netcare Blaauwberg Hospital, South Africa",
+   "province": "",
+   "job_type": "Internship",
+   "faculties": [
+    "Health"
+   ],
+   "closing_date": "2026-12-03",
+   "posted_date": "2026-11-23",
+   "url": "https://netcare.wd103.myworkdayjobs.com/Netcareexternal/job/Netcare-Blaauwberg-Hospital/Pharmacist-Intern_JR108859-1",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "confidence": "high"
+  },
+  {
+   "id": "d2e67512ab9c6b92",
+   "title": "Pharmacist Intern",
+   "company": "Netcare",
+   "sector": "Health & Pharma",
+   "location": "Netcare The Bay Hospital, South Africa",
+   "province": "",
+   "job_type": "Internship",
+   "faculties": [
+    "Health"
+   ],
+   "closing_date": "2026-11-28",
+   "posted_date": "2026-11-20",
+   "url": "https://netcare.wd103.myworkdayjobs.com/Netcareexternal/job/Netcare-The-Bay-Hospital/Pharmacist-Intern_JR109675",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "confidence": "high"
+  },
+  {
+   "id": "dad05126c88400b4",
+   "title": "Pharmacist Intern",
+   "company": "Netcare",
+   "sector": "Health & Pharma",
+   "location": "Netcare Vaalpark Hospital, South Africa",
+   "province": "",
+   "job_type": "Internship",
+   "faculties": [
+    "Health"
+   ],
+   "closing_date": "2026-11-30",
+   "posted_date": "2026-10-26",
+   "url": "https://netcare.wd103.myworkdayjobs.com/Netcareexternal/job/Netcare-Vaalpark-Hospital/Pharmacist-Intern_JR109343",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "confidence": "high"
+  },
+  {
+   "id": "a8225731fb4977a1",
+   "title": "Pharmacist Intern",
+   "company": "Netcare",
+   "sector": "Health & Pharma",
+   "location": "Netcare Mulbarton Hospital, South Africa",
+   "province": "",
+   "job_type": "Internship",
+   "faculties": [
+    "Health"
+   ],
+   "closing_date": "2026-11-30",
+   "posted_date": "2026-10-26",
+   "url": "https://netcare.wd103.myworkdayjobs.com/Netcareexternal/job/Netcare-Mulbarton-Hospital/Pharmacist-Intern_JR109291",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "confidence": "high"
+  },
+  {
+   "id": "5f848a6621dc6b15",
+   "title": "Pharmacist Intern -1",
+   "company": "Netcare",
+   "sector": "Health & Pharma",
+   "location": "Netcare Krugersdorp Hospital",
+   "province": "Gauteng",
+   "job_type": "Internship",
+   "faculties": [
+    "Health"
+   ],
+   "closing_date": null,
+   "posted_date": "2026-10-27",
+   "url": "https://netcare.wd103.myworkdayjobs.com/Netcareexternal/job/Netcare-Krugersdorp-Hospital/Pharmacist-Intern--1_JR109289",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "confidence": "high"
+  },
+  {
+   "id": "2ebce481f927abe6",
+   "title": "Pharmacist Intern",
+   "company": "Netcare",
+   "sector": "Health & Pharma",
+   "location": "Netcare Montana Hospital",
+   "province": "",
+   "job_type": "Internship",
+   "faculties": [
+    "Health"
+   ],
+   "closing_date": null,
+   "posted_date": "2026-10-27",
+   "url": "https://netcare.wd103.myworkdayjobs.com/Netcareexternal/job/Netcare-Montana-Hospital/Pharmacist-Intern_JR109254-1",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "confidence": "high"
+  },
+  {
+   "id": "6107089436e89140",
+   "title": "Pharmacist Intern",
+   "company": "Netcare",
+   "sector": "Health & Pharma",
+   "location": "Netcare N1City Hospital",
+   "province": "",
+   "job_type": "Internship",
+   "faculties": [
+    "Health"
+   ],
+   "closing_date": null,
+   "posted_date": "2026-10-27",
+   "url": "https://netcare.wd103.myworkdayjobs.com/Netcareexternal/job/Netcare-N1City-Hospital/Pharmacist-Intern_JR109267",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "confidence": "high"
+  },
+  {
+   "id": "a77e3452437af287",
+   "title": "Pharmacist Intern",
+   "company": "Netcare",
+   "sector": "Health & Pharma",
+   "location": "Netcare N1City Hospital",
+   "province": "",
+   "job_type": "Internship",
+   "faculties": [
+    "Health"
+   ],
+   "closing_date": null,
+   "posted_date": "2026-10-27",
+   "url": "https://netcare.wd103.myworkdayjobs.com/Netcareexternal/job/Netcare-N1City-Hospital/Pharmacist-Intern_JR108838",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "confidence": "high"
+  },
+  {
+   "id": "25c3a0a0d8961652",
+   "title": "Human Resource Internship (Cape Town)",
+   "company": "OUTsurance",
+   "sector": "Insurance & Investment",
+   "location": "Cape Town, WC, za",
+   "province": "Western Cape",
+   "job_type": "Internship",
+   "faculties": [
+    "All faculties"
+   ],
+   "closing_date": null,
+   "posted_date": "2026-11-25",
+   "url": "https://jobs.smartrecruiters.com/OUTsurance/744000163694620",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "confidence": "high"
+  },
+  {
+   "id": "d2c37a6e96634d3a",
    "title": "2027 Graduate Development Programme Reopens - Opportunity for Additional Graduates",
    "company": "Public Investment Corporation (PIC)",
    "sector": "Banking & Finance",
@@ -160,50 +196,85 @@
    ],
    "closing_date": null,
    "posted_date": null,
-   "url": "https://www.pic.gov.za/documents/publications/360/d6ce2809b14340ff8a33d6a88910e115.pdf?skoid=40adc226-5a3c-4239-8285-b3a7262de2ed&sktid=06fdb25e-a78c-4818-a304-562007fd761b&skt=2026-11-25T04%3A29%3A07Z&ske=2026-11-25T06%3A59%3A07Z&sks=b&skv=2025-11-05&sv=2025-11-05&st=2026-11-25T04%3A24%3A07Z&se=2026-11-25T06%3A59%3A07Z&sr=b&sp=r&sig=nALavJsfd%2B6KVeUV8WZnFJMKjzW7qHaPo4vqMm3SZXQ%3D",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "url": "https://www.pic.gov.za/documents/publications/360/d6ce2809b14340ff8a33d6a88910e115.pdf?skoid=40adc226-5a3c-4239-8285-b3a7262de2ed&sktid=06fdb25e-a78c-4818-a304-562007fd761b&skt=2026-11-26T04%3A25%3A49Z&ske=2026-11-26T06%3A55%3A49Z&sks=b&skv=2025-11-05&sv=2025-11-05&st=2026-11-26T04%3A20%3A49Z&se=2026-11-26T06%3A55%3A49Z&sr=b&sp=r&sig=67w3YteR1CnjfUU9CMerWl9xsQ6KIL36t8A%2FhJE08KQ%3D",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
    "confidence": "high"
   },
   {
-   "id": "fea30de1a8a88213",
-   "title": "Internships",
-   "company": "Sibanye-Stillwater",
-   "sector": "Mining & Resources",
-   "location": "",
-   "province": "",
-   "job_type": "Internship",
+   "id": "90df95ddacdd76bd",
+   "title": "Compliance Auditor",
+   "company": "Takealot Group",
+   "sector": "Technology",
+   "location": "Johannesburg",
+   "province": "Gauteng",
+   "job_type": "Entry-level",
    "faculties": [
-    "Health",
-    "Commerce",
-    "Engineering"
+    "Commerce"
    ],
    "closing_date": null,
-   "posted_date": null,
-   "url": "https://www.sibanyestillwater.com/careers/south-africa/",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
-   "confidence": "high"
+   "posted_date": "2026-10-01",
+   "url": "https://job-boards.greenhouse.io/takealotcom/jobs/8242849",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "confidence": "check"
   },
   {
-   "id": "941c5be88636e1ab",
-   "title": "Graduate: Process Engineering",
+   "id": "bf943c371fdecbc3",
+   "title": "Marketing Coordinator",
    "company": "Takealot Group",
    "sector": "Technology",
    "location": "Cape Town",
    "province": "Western Cape",
-   "job_type": "Graduate programme",
+   "job_type": "Entry-level",
    "faculties": [
-    "Commerce",
-    "Engineering",
-    "IT"
+    "Commerce"
    ],
    "closing_date": null,
-   "posted_date": "2026-11-24",
-   "url": "https://job-boards.greenhouse.io/takealotcom/jobs/8411150",
-   "first_seen": "2026-11-25",
-   "last_seen": "2026-11-25",
+   "posted_date": "2026-11-25",
+   "url": "https://job-boards.greenhouse.io/takealotcom/jobs/8413770",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "confidence": "check"
+  },
+  {
+   "id": "9ddc982a5efacfc7",
+   "title": "DynamX Trainee Programme",
+   "company": "The South African Breweries (AB InBev)",
+   "sector": "Manufacturing & FMCG",
+   "location": "HQ Sandton, South Africa",
+   "province": "Gauteng",
+   "job_type": "Trainee",
+   "faculties": [
+    "Commerce",
+    "IT"
+   ],
+   "closing_date": "2026-12-03",
+   "posted_date": "2026-11-25",
+   "url": "https://wd1.myworkdaysite.com/recruiting/abinbev/SAB/job/HQ-Sandton/DynamX-Trainee-Programme_30106522",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
    "confidence": "high"
+  },
+  {
+   "id": "a715d0def1f06aa4",
+   "title": "SAFETY AND ENVIRONMENT FACILITATOR",
+   "company": "The South African Breweries (AB InBev)",
+   "sector": "Manufacturing & FMCG",
+   "location": "Chamdor Brewery, South Africa",
+   "province": "",
+   "job_type": "Entry-level",
+   "faculties": [
+    "Law",
+    "Commerce",
+    "Science"
+   ],
+   "closing_date": "2026-12-02",
+   "posted_date": "2026-11-25",
+   "url": "https://wd1.myworkdaysite.com/recruiting/abinbev/SAB/job/Chamdor-Brewery/SAFETY-AND-ENVIRONMENT-FACILITATOR_30106499",
+   "first_seen": "2026-11-26",
+   "last_seen": "2026-11-26",
+   "confidence": "check"
   }
  ]
 }
