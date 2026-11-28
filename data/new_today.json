@@ -1,27 +1,81 @@
 {
- "date": "2026-11-27",
- "count": 3,
+ "date": "2026-11-28",
+ "count": 9,
  "jobs": [
   {
-   "id": "1b594c2d4eb1695f",
-   "title": "Operational Paramedic",
-   "company": "Mediclinic Southern Africa",
-   "sector": "Health & Pharma",
-   "location": "",
-   "province": "",
+   "id": "3b19461dde4825a6",
+   "title": "Agent: Capitec Sales",
+   "company": "Capitec Bank",
+   "sector": "Banking & Finance",
+   "location": "Johannesburg, ZA",
+   "province": "Gauteng",
    "job_type": "Entry-level",
    "faculties": [
-    "Health"
+    "Commerce"
    ],
-   "closing_date": "2026-12-03",
-   "posted_date": null,
-   "url": "https://careers.mediclinic.com/ER24/job/ER24-Vaal-Operational-Paramedic-Vaal-Jan-van-Ri/1451968233/",
-   "first_seen": "2026-11-27",
-   "last_seen": "2026-11-27",
+   "closing_date": null,
+   "posted_date": "2026-11-21",
+   "url": "https://careers.capitecbank.co.za/job/Johannesburg-Agent-Capitec-Sales/1459482933/",
+   "first_seen": "2026-11-28",
+   "last_seen": "2026-11-28",
    "confidence": "check"
   },
   {
-   "id": "4f3bf766280566c2",
+   "id": "9a31b1043e574c69",
+   "title": "Pharmacist Interns(2027)-Clicks Oakfield , Daveyton , Mayfield Square and Rynfield square",
+   "company": "Clicks Group",
+   "sector": "Retail",
+   "location": "",
+   "province": "",
+   "job_type": "Internship",
+   "faculties": [
+    "Health"
+   ],
+   "closing_date": "2026-11-30",
+   "posted_date": null,
+   "url": "https://careers.clicksgroup.co.za/applicant/index.php?controller=Listings&method=view&listingid=0047fe7a-d4e4-4e04-ac7a-588435d08196",
+   "first_seen": "2026-11-28",
+   "last_seen": "2026-11-28",
+   "confidence": "high"
+  },
+  {
+   "id": "f6777a1bf43d16e3",
+   "title": "Pharmacist Interns(2027)-Clicks Kempton Square , Woodbridge and Festival Mall",
+   "company": "Clicks Group",
+   "sector": "Retail",
+   "location": "",
+   "province": "",
+   "job_type": "Internship",
+   "faculties": [
+    "Health"
+   ],
+   "closing_date": "2026-11-30",
+   "posted_date": null,
+   "url": "https://careers.clicksgroup.co.za/applicant/index.php?controller=Listings&method=view&listingid=ddc62468-b0e6-4b29-b705-eb88be403b49",
+   "first_seen": "2026-11-28",
+   "last_seen": "2026-11-28",
+   "confidence": "high"
+  },
+  {
+   "id": "d8216e7ea987aae3",
+   "title": "Pharmacist Interns(2027)-Clicks Karaglen Mall, Eastgate, Greenstone and Park Meadows",
+   "company": "Clicks Group",
+   "sector": "Retail",
+   "location": "",
+   "province": "",
+   "job_type": "Internship",
+   "faculties": [
+    "Health"
+   ],
+   "closing_date": "2026-11-30",
+   "posted_date": null,
+   "url": "https://careers.clicksgroup.co.za/applicant/index.php?controller=Listings&method=view&listingid=333d8fef-163f-4b94-853b-c016c1c30e76",
+   "first_seen": "2026-11-28",
+   "last_seen": "2026-11-28",
+   "confidence": "high"
+  },
+  {
+   "id": "418ee44f22a1fbfa",
    "title": "2027 Graduate Development Programme Reopens - Opportunity for Additional Graduates",
    "company": "Public Investment Corporation (PIC)",
    "sector": "Banking & Finance",
@@ -33,30 +87,86 @@
    ],
    "closing_date": null,
    "posted_date": null,
-   "url": "https://www.pic.gov.za/documents/publications/360/d6ce2809b14340ff8a33d6a88910e115.pdf?skoid=40adc226-5a3c-4239-8285-b3a7262de2ed&sktid=06fdb25e-a78c-4818-a304-562007fd761b&skt=2026-11-27T04%3A28%3A21Z&ske=2026-11-27T06%3A58%3A21Z&sks=b&skv=2025-11-05&sv=2025-11-05&st=2026-11-27T04%3A23%3A21Z&se=2026-11-27T06%3A58%3A21Z&sr=b&sp=r&sig=1MgsmqDzbbawsBn%2B4eDXMZw9dCp2Wo6ndsTh7c%2BdHBk%3D",
-   "first_seen": "2026-11-27",
-   "last_seen": "2026-11-27",
+   "url": "https://www.pic.gov.za/documents/publications/360/d6ce2809b14340ff8a33d6a88910e115.pdf?skoid=40adc226-5a3c-4239-8285-b3a7262de2ed&sktid=06fdb25e-a78c-4818-a304-562007fd761b&skt=2026-11-28T04%3A19%3A51Z&ske=2026-11-28T06%3A49%3A51Z&sks=b&skv=2025-11-05&sv=2025-11-05&st=2026-11-28T04%3A14%3A51Z&se=2026-11-28T06%3A49%3A51Z&sr=b&sp=r&sig=vaXxJRPEPn7pFK9slWoulsg0v9m8Hb6vaVrwLRojU9A%3D",
+   "first_seen": "2026-11-28",
+   "last_seen": "2026-11-28",
    "confidence": "high"
   },
   {
-   "id": "fea30de1a8a88213",
-   "title": "Internships",
-   "company": "Sibanye-Stillwater",
-   "sector": "Mining & Resources",
-   "location": "",
-   "province": "",
-   "job_type": "Internship",
+   "id": "3d1907bfdf4baeb2",
+   "title": "Production Clerk",
+   "company": "Tiger Brands",
+   "sector": "Manufacturing & FMCG",
+   "location": "Isando, South Africa",
+   "province": "Gauteng",
+   "job_type": "Entry-level",
    "faculties": [
-    "Health",
+    "IT",
     "Commerce",
-    "Engineering"
+    "Humanities"
+   ],
+   "closing_date": "2026-12-02",
+   "posted_date": "2026-11-26",
+   "url": "https://tigerbrands.wd103.myworkdayjobs.com/TigerBrands/job/Isando/Production-Clerk_JR003981",
+   "first_seen": "2026-11-28",
+   "last_seen": "2026-11-28",
+   "confidence": "check"
+  },
+  {
+   "id": "0704c96d7c761555",
+   "title": "Trainee: Basket Control",
+   "company": "Tiger Brands",
+   "sector": "Manufacturing & FMCG",
+   "location": "Belville",
+   "province": "",
+   "job_type": "Trainee",
+   "faculties": [
+    "All faculties"
    ],
    "closing_date": null,
-   "posted_date": null,
-   "url": "https://www.sibanyestillwater.com/careers/south-africa/",
-   "first_seen": "2026-11-27",
-   "last_seen": "2026-11-27",
+   "posted_date": "2026-11-25",
+   "url": "https://tigerbrands.wd103.myworkdayjobs.com/TigerBrands/job/Belville/Workplace-Experience-Student--Basket-Control_JR003673",
+   "first_seen": "2026-11-28",
+   "last_seen": "2026-11-28",
    "confidence": "high"
+  },
+  {
+   "id": "f880616134aeda87",
+   "title": "Future Leaders Development Programme",
+   "company": "Tiger Brands",
+   "sector": "Manufacturing & FMCG",
+   "location": "BRY1, South Africa",
+   "province": "",
+   "job_type": "Graduate programme",
+   "faculties": [
+    "Commerce",
+    "Science",
+    "Engineering"
+   ],
+   "closing_date": "2026-12-31",
+   "posted_date": "2026-11-02",
+   "url": "https://tigerbrands.wd103.myworkdayjobs.com/TigerBrands/job/BRY1/Future-Leaders-Development-Programme_JR001163",
+   "first_seen": "2026-11-28",
+   "last_seen": "2026-11-28",
+   "confidence": "high"
+  },
+  {
+   "id": "e49b33714d29914e",
+   "title": "Workplace Experience Student: Finance",
+   "company": "Tiger Brands",
+   "sector": "Manufacturing & FMCG",
+   "location": "Belville, South Africa",
+   "province": "",
+   "job_type": "Entry-level",
+   "faculties": [
+    "Commerce"
+   ],
+   "closing_date": null,
+   "posted_date": "2026-10-27",
+   "url": "https://tigerbrands.wd103.myworkdayjobs.com/TigerBrands/job/Belville/Workplace-Experience-Student--Finance_JR003569-1",
+   "first_seen": "2026-11-28",
+   "last_seen": "2026-11-28",
+   "confidence": "check"
   }
  ]
 }
